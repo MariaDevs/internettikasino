@@ -29,7 +29,7 @@ ETA-alueeseen kuuluvat EU-maat sekä Norja, Islanti ja Liechtenstein. Ratkaiseva
 
 Malta Gaming Authority (MGA) on Euroopan tunnetuin rahapelivalvoja, ja [MGA-kasinot](/mga-kasinot/) ovat suomalaisille pelaajille pitkään olleet verovapaan pelaamisen perusvalinta. MGA valvoo pelien reiluutta, pelaajien varojen erillään pitämistä ja vastuullisen pelaamisen työkaluja. Riitatilanteissa pelaaja voi kääntyä MGA:n puoleen.
 
-Listallamme MGA-lisenssillä toimivat muun muassa [Lumo Casino](/review/lumo-casino/), [Igni Casino](/review/igni-casino/), [Munkki Kasino](/review/munkki-kasino/), [Vauthi Kasino](/review/vauthi-kasino/) ja [247Bet](/review/247bet/).
+Listallamme MGA-lisenssillä toimivat muun muassa [Lumo Casino](/review/lumo-casino/), [Igni Casino](/review/igni-casino/), [Munkki Kasino](/review/munkki-kasino/), [Vauhti Kasino](/review/vauhti-kasino/) ja [247Bet](/review/247bet/).
 
 ## Virolaiset verovapaat kasinot – EMTA-lisenssi
 

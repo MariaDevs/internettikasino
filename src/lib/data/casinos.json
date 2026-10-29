@@ -3,8 +3,8 @@
     "slug": "casinofriday",
     "name": "CasinoFriday",
     "logo": "/images/uploads/2017/10/casinofriday-logo.png",
-    "bonus": "100 ilmaiskierrosta",
-    "freeSpins": "100 ilmaiskierrosta",
+    "bonus": "100 kierrätysvapaata ilmaiskierrosta 20 €:n talletuksella",
+    "freeSpins": "Jopa 200 kierrätysvapaata ilmaiskierrosta",
     "license": "Estonian",
     "payments": [
       "Zimpler"
@@ -19,11 +19,30 @@
     "blurb": ""
   },
   {
+    "slug": "shotz-kasino",
+    "name": "Shotz Kasino",
+    "logo": "/images/uploads/2026/04/shotz.png",
+    "bonus": "100 kierrätysvapaata ilmaiskierrosta 20 €:n talletuksella",
+    "freeSpins": "Jopa 200 kierrätysvapaata ilmaiskierrosta",
+    "license": "Estonian",
+    "payments": [
+      "Zimpler"
+    ],
+    "rating": 5,
+    "go": "shotz",
+    "affiliateUrl": "https://go.funnz.partners/visit/?bta=38445&nci=5808&utm_campaign=FISHZ",
+    "published": "2017-10-24",
+    "modified": "2026-10-29",
+    "seoTitle": "Shotz Kasino Arvostelu 2026 — Kierrätysvapaat Bonukset | Viro",
+    "description": "Shotz Kasino: kierrätysvapaat ilmaiskierrosta, Zimpler Pay N Play ja Viron EMTA-lisenssi. Yli 5 000 peliä, verovapaat voitot. Lue arvostelu.",
+    "blurb": "Shotz on vuonna 2024 ovensa avannut pikakasino joka toimii Far Up Services Ltd:n alaisuudessa ja lisenssinä on Viron EMTA."
+  },
+  {
     "slug": "pelipeto",
     "name": "Pelipeto",
     "logo": "/images/uploads/2026/04/pelipito.png",
-    "bonus": "Talleta 20–49 € ja saat 50 ilmaiskierrosta, arvo 0,10 €/kpl",
-    "freeSpins": "50 ilmaiskierrosta",
+    "bonus": "50 kierrätysvapaata ilmaiskierrosta (0,10–0,50 €/kierros)",
+    "freeSpins": "",
     "license": "Estonian",
     "payments": [
       "Zimpler"
@@ -36,25 +55,6 @@
     "seoTitle": "Pelipeto Casino arvostelu 2026 – kierrätysvapaat ilmaiskierrokset",
     "description": "Pelipeto: kierrätysvapaa tervetuliaisbonus, Zimpler Pay N Play ja Viron EMTA-lisenssi. Verovapaat voitot suomalaisille. Lue rehellinen arvostelu.",
     "blurb": ""
-  },
-  {
-    "slug": "shotz-kasino",
-    "name": "Shotz Kasino",
-    "logo": "/images/uploads/2026/04/shotz.png",
-    "bonus": "Talleta 20–49 € ja saat 50 ilmaiskierrosta",
-    "freeSpins": "50 ilmaiskierrosta",
-    "license": "Estonian",
-    "payments": [
-      "Zimpler"
-    ],
-    "rating": 4.9,
-    "go": "shotz",
-    "affiliateUrl": "https://go.funnz.partners/visit/?bta=38445&nci=5808&utm_campaign=FISHZ",
-    "published": "2017-10-24",
-    "modified": "2026-10-29",
-    "seoTitle": "Shotz Kasino Arvostelu 2026 — Kierrätysvapaat Bonukset | Viro",
-    "description": "Shotz Kasino: kierrätysvapaat ilmaiskierrosta, Zimpler Pay N Play ja Viron EMTA-lisenssi. Yli 5 000 peliä, verovapaat voitot. Lue arvostelu.",
-    "blurb": "Shotz on vuonna 2024 ovensa avannut pikakasino joka toimii Far Up Services Ltd:n alaisuudessa ja lisenssinä on Viron EMTA."
   },
   {
     "slug": "lumo-casino",
@@ -98,8 +98,8 @@
     "slug": "onerush",
     "name": "OneRush casino",
     "logo": "/images/uploads/2026/04/onerush.png",
-    "bonus": "Yli 2000 peliä huippustudioilta",
-    "freeSpins": "Kotiutukset noin 10 minuutissa",
+    "bonus": "Ei tervetuliaisbonusta – kotiutus noin 10 minuutissa",
+    "freeSpins": "",
     "license": "Estonian",
     "payments": [
       "Trustly"
@@ -133,11 +133,11 @@
     "blurb": ""
   },
   {
-    "slug": "vauthi-kasino",
-    "name": "Vauthi Kasino",
+    "slug": "vauhti-kasino",
+    "name": "Vauhti Kasino",
     "logo": "/images/uploads/2026/06/vauthi-kasino-logo.png",
     "bonus": "Jopa 1000 € käteispottimme",
-    "freeSpins": "Jopa 1000 € käteispottimme",
+    "freeSpins": "",
     "license": "MGA",
     "payments": [],
     "rating": 4.5,
@@ -145,8 +145,8 @@
     "affiliateUrl": "https://media1.casimbaaff.com/redirect.aspx?pid=54822&lpid=85&bid=1526",
     "published": "2026-06-01",
     "modified": "2026-10-29",
-    "seoTitle": "Vauthi Kasino Arvostelu 2026 — Jopa 1000€ Käteispotti",
-    "description": "Vauthi Kasino: jopa 1 000 € käteispotti uusille pelaajille. Nopea Pay N Play -aloitus, laaja pelivalikoima johtavilta studioilta. Lue arvostelu.",
+    "seoTitle": "Vauhti Kasino arvostelu 2026 – jopa 1 000 € käteispotti (MGA)",
+    "description": "Vauhti Kasino: jopa 1 000 € käteispotti uusille pelaajille. Nopea Pay N Play -aloitus, laaja pelivalikoima johtavilta studioilta. Lue arvostelu.",
     "blurb": ""
   },
   {
@@ -189,8 +189,8 @@
     "slug": "jackburst",
     "name": "Jackburst",
     "logo": "/images/uploads/2026/04/jackburst-logo-new.png",
-    "bonus": "100% bonus 500€ asti + 50 IK",
-    "freeSpins": "50 käteiskierrosta",
+    "bonus": "100 % jopa 500 € + 150 ilmaiskierrosta",
+    "freeSpins": "2. talletus: 50 % jopa 200 € + 100 ilmaiskierrosta",
     "license": "Curacao",
     "payments": [
       "Zimpler"
@@ -285,7 +285,7 @@
     "name": "Jellona Kasino",
     "logo": "/images/uploads/2026/06/jellona-kasino-logo.png",
     "bonus": "Jopa 15 % Palautuksen",
-    "freeSpins": "Jopa 15 % Palautuksen",
+    "freeSpins": "",
     "license": "Curacao",
     "payments": [],
     "rating": 3.8,
@@ -318,28 +318,11 @@
     "blurb": ""
   },
   {
-    "slug": "spinnair-kasino",
-    "name": "Spinnair Kasino",
-    "logo": "/images/uploads/2026/06/spinnair-kasino-logo.png",
-    "bonus": "200 Ilmaiskierrosta + Jopa 20% Cashback",
-    "freeSpins": "200 Ilmaiskierrosta",
-    "license": "Curacao",
-    "payments": [],
-    "rating": 3.8,
-    "go": "spinnair",
-    "affiliateUrl": "https://go.fruitypartners.com/visit/?bta=35381&brand=spinnair&utm_campaign=FIAIR",
-    "published": "2026-06-03",
-    "modified": "2026-10-29",
-    "seoTitle": "Spinnair Kasino Arvostelu 2026 — 200 Ilmaiskierrosta",
-    "description": "Spinnair Kasino: 200 ilmaiskierrosta tervetuliaisena. Lennokas pikakasino nopealla Pay N Play -aloituksella ja laajalla pelivalikoimalla. Lue arvostelu.",
-    "blurb": "Lue arvostelu"
-  },
-  {
     "slug": "tikkari-kasino",
     "name": "Tikkari Kasino",
     "logo": "/images/uploads/2026/06/tikkari-kasino-logo.png",
     "bonus": "Jopa 15 % Palautuksen + Jopa 1000 Spinniä",
-    "freeSpins": "Jopa 15 % Palautuksen",
+    "freeSpins": "",
     "license": "Curaçao",
     "payments": [],
     "rating": 3.8,
@@ -352,11 +335,45 @@
     "blurb": "Lue arvostelu"
   },
   {
+    "slug": "spinnair-kasino",
+    "name": "Spinnair Kasino",
+    "logo": "/images/uploads/2026/06/spinnair-kasino-logo.png",
+    "bonus": "200 ilmaiskierrosta",
+    "freeSpins": "",
+    "license": "Curacao",
+    "payments": [],
+    "rating": 3.7,
+    "go": "spinnair",
+    "affiliateUrl": "https://go.fruitypartners.com/visit/?bta=35381&brand=spinnair&utm_campaign=FIAIR",
+    "published": "2026-06-03",
+    "modified": "2026-10-29",
+    "seoTitle": "Spinnair Kasino Arvostelu 2026 — 200 Ilmaiskierrosta",
+    "description": "Spinnair Kasino: 200 ilmaiskierrosta tervetuliaisena. Lennokas pikakasino nopealla Pay N Play -aloituksella ja laajalla pelivalikoimalla. Lue arvostelu.",
+    "blurb": "Lue arvostelu"
+  },
+  {
+    "slug": "taika-spinni",
+    "name": "Taika Spinni",
+    "logo": "/images/uploads/2026/06/taika-spinni-logo.png",
+    "bonus": "100 % jopa 500 € + 200 ilmaiskierrosta",
+    "freeSpins": "200 ilmaiskierrosta",
+    "license": "Curacao",
+    "payments": [],
+    "rating": 3.7,
+    "go": "taika-spinni",
+    "affiliateUrl": "https://Media1.casimbacuraff.com/redirect.aspx?pid=55101&lpid=331&bid=1759",
+    "published": "2026-06-03",
+    "modified": "2026-10-29",
+    "seoTitle": "Taika Spinni Arvostelu 2026 — 100% 500€ + 200 Ilmaiskierrosta",
+    "description": "Taika Spinni: 100% bonus jopa 500 € + 200 ilmaiskierrosta. Taikateemainen pikakasino nopealla Pay N Play -aloituksella. Lue arvostelu.",
+    "blurb": "Lue arvostelu"
+  },
+  {
     "slug": "tikaani-casino",
     "name": "Tikaani Casino",
     "logo": "/images/uploads/2026/08/titaani-casino-logo.png",
-    "bonus": "200 Ilmaiskierrosta",
-    "freeSpins": "20 Ilmaiskierrosta",
+    "bonus": "200 ilmaiskierrosta + 20 ilman talletusta",
+    "freeSpins": "20 ilmaiskierrosta ilman talletusta",
     "license": "Curacao",
     "payments": [
       "Trustly",
@@ -376,7 +393,7 @@
     "name": "Pelifantti Kasino",
     "logo": "/images/uploads/2026/08/pelifantti-kasino-logo.png",
     "bonus": "Jopa 15 % Palautuksen",
-    "freeSpins": "Jopa 15 % Palautuksen",
+    "freeSpins": "",
     "license": "Anjouanin",
     "payments": [
       "Zimpler"
@@ -389,22 +406,5 @@
     "seoTitle": "Pelifantti Kasino Arvostelu 2026 — 15% Cashback ja 1€ Minimitalletus",
     "description": "Pelifantti Kasino: 15% viikottainen cashback + 1 € minimitalletus. Zimpler Pay N Play, yli 3 000 peliä. Anjouanin lisenssi. Lue rehellinen arvostelu.",
     "blurb": ""
-  },
-  {
-    "slug": "taika-spinni",
-    "name": "Taika Spinni",
-    "logo": "/images/uploads/2026/06/taika-spinni-logo.png",
-    "bonus": "100% Bonus Jopa 500 €",
-    "freeSpins": "100% Bonus Jopa 500 €",
-    "license": "Curacao",
-    "payments": [],
-    "rating": 3.6,
-    "go": "taika-spinni",
-    "affiliateUrl": "https://Media1.casimbacuraff.com/redirect.aspx?pid=55101&lpid=331&bid=1759",
-    "published": "2026-06-03",
-    "modified": "2026-10-29",
-    "seoTitle": "Taika Spinni Arvostelu 2026 — 100% 500€ + 200 Ilmaiskierrosta",
-    "description": "Taika Spinni: 100% bonus jopa 500 € + 200 ilmaiskierrosta. Taikateemainen pikakasino nopealla Pay N Play -aloituksella. Lue arvostelu.",
-    "blurb": "Lue arvostelu"
   }
 ]

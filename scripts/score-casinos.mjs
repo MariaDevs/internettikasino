@@ -28,7 +28,7 @@ const BONUS = {
   casinofriday: 0.4, // 100–200 wager-free free spins
   'hurmio-casino-2': 0.4, // up to 15 % cashback
   'igni-casino': 0.3, // 100 % up to 500 € + 100 FS
-  jackburst: 0.3, // 100 % up to 500 € + 50 FS, 30-day wagering window
+  jackburst: 0.3, // 100 % up to 500 € + 150 FS, then 50 % up to 200 € + 100 FS
   'jellona-kasino': 0.4, // up to 15 % cashback
   kaahaus: 0.4, // 200 wager-free cash spins + cashback
   'lumo-casino': 0.4, // 100 % up to 300 € + 50 wager-free cash spins
@@ -36,14 +36,14 @@ const BONUS = {
   onerush: 0, // no welcome bonus
   pelipeto: 0.3, // 50 wager-free FS at 0.10 € for a 20–49 € deposit
   'rullat-casino': 0.4, // up to 15 % cashback
-  'shotz-kasino': 0.3, // 50 wager-free FS for a 20–49 € deposit
+  'shotz-kasino': 0.4, // 100 wager-free FS from a 20 € deposit (up to 200)
   'spiidi-kasino': 0.4, // 100 cash spins + 10 % cashback
-  'spinnair-kasino': 0.4, // 200 FS + up to 20 % cashback
+  'spinnair-kasino': 0.3, // 200 FS (no cashback in the review)
   spinnaus: 0.4, // 300 wager-free FS + 10 % daily cashback
-  'taika-spinni': 0.2, // 100 % up to 500 €
+  'taika-spinni': 0.3, // 100 % up to 500 € + 200 FS
   'tikkari-kasino': 0.4, // up to 15 % cashback + up to 1000 spins
   'ursa-casino': 0.3, // 100 % up to 500 € + 200 FS
-  'vauthi-kasino': 0.3, // up to 1000 € cash pot
+  'vauhti-kasino': 0.3, // up to 1000 € cash pot
   'pelifantti-kasino': 0.4, // up to 15 % cashback
   'tikaani-casino': 0.3, // 200 FS
 };

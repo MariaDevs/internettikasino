@@ -1,17 +1,66 @@
 [
-  { "source": "/go/casinofriday", "destination": "/go/casino-friday/" },
-  { "source": "/list/:path*", "destination": "/parhaat-kasinot/" },
-  { "source": "/kierratysvapaat-bonukset", "destination": "/ilmaiskierrokset/" },
-  { "source": "/kierratysvapaat-ilmaiskierrokset", "destination": "/ilmaiskierrokset/" },
-  { "source": "/nettikasino-ilman-rekisteroitymista", "destination": "/kasino-ilman-rekisteroitymista/" },
-  { "source": "/paras-nettikasino", "destination": "/parhaat-kasinot/" },
-  { "source": "/parhaat-nettikasinot", "destination": "/parhaat-kasinot/" },
-  { "source": "/homepage", "destination": "/" },
-  { "source": "/feed", "destination": "/" },
-  { "source": "/:path*/feed", "destination": "/" },
-  { "source": "/slider/:path*", "destination": "/" },
-  { "source": "/category/uncategorized", "destination": "/category/oppaat/" },
-  { "source": "/wp-admin/:path*", "destination": "/" },
-  { "source": "/wp-login.php", "destination": "/" },
-  { "source": "/wp-json/:path*", "destination": "/" }
+  {
+    "source": "/go/casinofriday",
+    "destination": "/go/casino-friday/"
+  },
+  {
+    "source": "/list/:path*",
+    "destination": "/parhaat-kasinot/"
+  },
+  {
+    "source": "/kierratysvapaat-bonukset",
+    "destination": "/ilmaiskierrokset/"
+  },
+  {
+    "source": "/kierratysvapaat-ilmaiskierrokset",
+    "destination": "/ilmaiskierrokset/"
+  },
+  {
+    "source": "/nettikasino-ilman-rekisteroitymista",
+    "destination": "/kasino-ilman-rekisteroitymista/"
+  },
+  {
+    "source": "/paras-nettikasino",
+    "destination": "/parhaat-kasinot/"
+  },
+  {
+    "source": "/parhaat-nettikasinot",
+    "destination": "/parhaat-kasinot/"
+  },
+  {
+    "source": "/homepage",
+    "destination": "/"
+  },
+  {
+    "source": "/feed",
+    "destination": "/"
+  },
+  {
+    "source": "/:path*/feed",
+    "destination": "/"
+  },
+  {
+    "source": "/slider/:path*",
+    "destination": "/"
+  },
+  {
+    "source": "/category/uncategorized",
+    "destination": "/category/oppaat/"
+  },
+  {
+    "source": "/wp-admin/:path*",
+    "destination": "/"
+  },
+  {
+    "source": "/wp-login.php",
+    "destination": "/"
+  },
+  {
+    "source": "/wp-json/:path*",
+    "destination": "/"
+  },
+  {
+    "source": "/review/vauthi-kasino",
+    "destination": "/review/vauhti-kasino/"
+  }
 ]
