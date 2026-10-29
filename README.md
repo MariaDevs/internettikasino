@@ -9,9 +9,21 @@ without redirects.
 
 ```bash
 npm run dev            # http://localhost:3000
-npm run build:static   # regenerates redirects, then exports to out/
-npm run redirects      # rebuild public/.htaccess + vercel.json from casinos.json
+npm run build          # what Vercel runs
 ```
+
+## Hosting (Vercel)
+
+Vercel builds with `next build`. All 53 pages are prerendered; `next.config.ts` serves
+the redirects (affiliate `/go/` links + old WordPress URLs) and trailing-slash handling.
+
+Domains: add `internettikasino.com` as the primary domain and `www.internettikasino.com`
+as a redirect to it (Settings → Domains). The bare domain is canonical, same as WordPress.
+
+Optional env vars: `NEXT_PUBLIC_GA_ID`, `NEXT_PUBLIC_GSC_VERIFICATION`.
+
+`npm run build:static` / `npm run redirects` / `deploy-cloudways.sh` are only for hosting
+the static export on Apache instead (they generate `public/.htaccess`).
 
 ## Where content lives
 
@@ -28,8 +40,8 @@ date — it feeds `<lastmod>` in the sitemap.
 
 ## Affiliate links
 
-`/go/<slug>/` 302-redirects to `affiliateUrl` in `casinos.json` (via `.htaccess` on
-Cloudways, `vercel.json` on Vercel). Edit the JSON, then run `npm run redirects`.
+`/go/<slug>/` temporarily redirects to `affiliateUrl` in `casinos.json`. Old WordPress
+URLs are listed in `src/lib/data/legacy-redirects.json`. Edit the JSON and redeploy.
 
 ## Migration
 

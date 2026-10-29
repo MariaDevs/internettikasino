@@ -1,11 +1,12 @@
 import type { NextConfig } from "next";
 import casinos from "./src/lib/data/casinos.json";
+import legacyRedirects from "./src/lib/data/legacy-redirects.json";
 
 const isStaticExport = process.env.EXPORT === "true";
 
 // Affiliate links keep the /go/<slug>/ shape the WordPress site used, so any
-// existing backlinks or bookmarks to them keep working. In the static export
-// these live in public/.htaccess (Cloudways) and vercel.json instead.
+// existing backlinks or bookmarks to them keep working. This is the source of
+// truth on Vercel; a static export gets the same rules via public/.htaccess.
 const goRedirects = casinos
   .filter((c) => c.go && c.affiliateUrl)
   .map((c) => ({ source: `/go/${c.go}`, destination: c.affiliateUrl as string, permanent: false }));
@@ -28,16 +29,10 @@ const nextConfig: NextConfig = {
   ...(!isStaticExport && {
     async redirects() {
       return [
+        // www → bare domain is a Vercel domain redirect (Settings → Domains), which
+        // keeps the path and trailing slash in one hop; a rule here would drop the slash.
+        ...legacyRedirects.map((r) => ({ ...r, permanent: true })),
         ...goRedirects,
-        { source: "/go/casinofriday", destination: "/go/casino-friday/", permanent: true },
-        { source: "/list/:path*", destination: "/parhaat-kasinot/", permanent: true },
-        { source: "/kierratysvapaat-bonukset", destination: "/ilmaiskierrokset/", permanent: true },
-        { source: "/kierratysvapaat-ilmaiskierrokset", destination: "/ilmaiskierrokset/", permanent: true },
-        { source: "/nettikasino-ilman-rekisteroitymista", destination: "/kasino-ilman-rekisteroitymista/", permanent: true },
-        { source: "/paras-nettikasino", destination: "/parhaat-kasinot/", permanent: true },
-        { source: "/parhaat-nettikasinot", destination: "/parhaat-kasinot/", permanent: true },
-        { source: "/homepage", destination: "/", permanent: true },
-        { source: "/feed", destination: "/", permanent: true },
       ];
     },
     async headers() {
@@ -49,6 +44,10 @@ const nextConfig: NextConfig = {
             { key: "X-Frame-Options", value: "DENY" },
             { key: "Referrer-Policy", value: "strict-origin-when-cross-origin" },
           ],
+        },
+        {
+          source: "/images/:path*",
+          headers: [{ key: "Cache-Control", value: "public, max-age=31536000, immutable" }],
         },
       ];
     },
