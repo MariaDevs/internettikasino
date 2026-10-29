@@ -22,7 +22,7 @@ const USPS = [
   { icon: BadgeCheck, title: 'Itse testatut', text: 'Talletus, bonus, pelaaminen ja kotiutus — jokainen kasino käydään läpi.' },
   { icon: Timer, title: 'Nopeat kotiutukset', text: 'Pay N Play ja pikamaksut: kotiutusajat mitattuina, ei luvattuina.' },
   { icon: Gift, title: 'Reilut bonukset', text: 'Kierrätysehdot auki kirjoitettuina ennen kuin talletat.' },
-  { icon: ShieldCheck, title: 'Lisenssit tarkistettu', text: 'Näet heti, onko voitot verovapaita (MGA, EMTA, Isle of Man).' },
+  { icon: ShieldCheck, title: 'Lisenssit tarkistettu', text: 'Näet heti, ovatko voitot Suomessa verovapaita (EU/ETA-lisenssi).' },
 ];
 
 export default function HomePage() {

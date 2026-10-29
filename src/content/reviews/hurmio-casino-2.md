@@ -48,7 +48,7 @@ Hurmio Casino toimii Brite-pikamaksujärjestelmällä. Talletus, tunnistautumine
 
 ## Turvallisuus ja lisenssi
 
-Hurmio Casino toimii Curacao-lisenssillä. Voitot eivät ole automaattisesti verovapaita suomalaisille kuten MGA- tai Isle of Man -lisenssoiduilla kasinoilla. Muistathan, että [Suomen rahapelilaki muuttuu 2027](/suomen-rahapelilaki-2027/) — lisenssin merkitys voittojen verotuksessa kasvaa huomattavasti.
+Hurmio Casino toimii Curacao-lisenssillä. Voitot eivät ole automaattisesti verovapaita suomalaisille kuten MGA- tai Viron EMTA -lisensoiduilla kasinoilla. Muistathan, että [Suomen rahapelilaki muuttuu 2027](/suomen-rahapelilaki-2027/) — lisenssin merkitys voittojen verotuksessa kasvaa huomattavasti.
 
 ## Käytettävyys ja mobiili
 

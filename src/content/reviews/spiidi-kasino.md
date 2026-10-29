@@ -54,7 +54,7 @@ Spiidi toimii pikamaksujärjestelmällä. Talletus, tunnistautuminen ja tilin lu
 
 ## Turvallisuus ja lisenssi
 
-Spiidi Casino toimii Curacao-lisenssillä. Voitot eivät ole automaattisesti verovapaita suomalaisille pelaajille kuten MGA- tai Isle of Man -lisenssoiduilla kasinoilla. Muistathan, että [Suomen rahapelilaki muuttuu 2027](/suomen-rahapelilaki-2027/) — lisenssin merkitys voittojen verotuksessa kasvaa entisestään.
+Spiidi Casino toimii Curacao-lisenssillä. Voitot eivät ole automaattisesti verovapaita suomalaisille pelaajille kuten MGA- tai Viron EMTA -lisensoiduilla kasinoilla. Muistathan, että [Suomen rahapelilaki muuttuu 2027](/suomen-rahapelilaki-2027/) — lisenssin merkitys voittojen verotuksessa kasvaa entisestään.
 
 ## Käytettävyys ja mobiili
 

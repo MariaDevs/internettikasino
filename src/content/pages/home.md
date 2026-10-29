@@ -4,11 +4,11 @@ Internettikasino on rakennettu tätä varten. Täällä et näe pelkkää listaa
 
 Jos tavoitteesi on löytää nettikasino joka maksaa voitot nopeasti, antaa järkeviä bonuksia, ja toimii ilman turhaa kitkaa myös tervetulobonuksen jälkeen, olet oikeassa paikassa.
 
-## Parhaat kasinot
+## Suosittelemamme nettikasinot
 
 <!-- casino-list:0 -->
 
-## Parhaat nettikasinot juuri nyt
+## Mistä tunnistaa hyvän nettikasinon?
 
 Kaikki kasinot eivät ole samalla tasolla. Testeissämme suurimmat erot näkyvät erityisesti kolmessa asiassa: kotiutusnopeus, bonusten ehdot ja käyttökokemus. Nämä yhdistämällä [parhaat nettikasinot](/parhaat-kasinot/) nousevat heikompien ylitse.
 
@@ -25,7 +25,7 @@ Pelaaminen [internettikasino.com](/) vahvistamalla pelisivustolla ei koskaan jä
 
 Jokainen [kasinoarvostelu](/review/) on kirjoitettu saman testin pohjalta, joten voit verrata kasinoita suoraan keskenään:
 
--   **Lisenssi ja verotus** – näet heti, ovatko voitot Suomessa verovapaita (MGA, Viron EMTA, Isle of Man) vai verotettavia (esim. Curaçao)
+-   **Lisenssi ja verotus** – näet heti, ovatko voitot Suomessa verovapaita (MGA, Viron EMTA) vai verotettavia (esim. Curaçao, Isle of Man)
 -   **Bonusehdot selkokielellä** – kierrätysvaatimus, maksimipanos ja aikaraja ennen kuin talletat
 -   **Kotiutusaika** – kuinka nopeasti rahat ovat tilillä ja vaatiiko kasino erillisen KYC-tunnistautumisen
 -   **Heikkoudet** – myös puuttuvat bonukset, hitaat maksut ja muut miinukset kerrotaan suoraan

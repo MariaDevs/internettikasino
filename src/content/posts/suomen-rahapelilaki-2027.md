@@ -31,7 +31,7 @@ Eduskunta hyväksyi uuden rahapelilain 16.12.2025, ja presidentti vahvisti sen 1
 
 Tämä on suurin käytännön muutos suomalaisille pelaajille, ja se koskettaa kaikkia jotka pelaavat ulkomaisilla kasinoilla.
 
-**Nykyinen tilanne (ennen 1.7.2027):** ETA-alueella (Malta, Viro, Isle of Man) toimivan kasinon voitot ovat suomalaiselle verovapaita. Lisenssin sijainti ratkaisee.
+**Nykyinen tilanne (ennen 1.7.2027):** ETA-alueella (esimerkiksi Malta ja Viro) toimivan kasinon voitot ovat suomalaiselle verovapaita. Lisenssin sijainti ratkaisee.
 
 **Uusi tilanne (1.7.2027 jälkeen):** Verovapaus seuraa lisenssiä — ei enää pelkää sijaintia. Tämä tarkoittaa käytännössä:
 

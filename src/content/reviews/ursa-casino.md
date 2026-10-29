@@ -1,6 +1,6 @@
 ## Ursa Casino arvostelu
 
-Ursa Casino on pikakasino, joka puhuttelee erityisesti pelaajia, jotka haluavat isomman tervetuliaisedun. 100 % bonus jopa 500 € asti yhdistettynä 200 ilmaiskierrokseen on yksi markkinoiden vahvimmista tervetuliaispaketteista. Isle of Man -lisenssi tuo mukanaan verovapaat voitot suomalaisille pelaajille. Katso myös vertailumme [parhaista pikakasinoista 2026](/pikakasinot/).
+Ursa Casino on pikakasino, joka puhuttelee erityisesti pelaajia, jotka haluavat isomman tervetuliaisedun. 100 % bonus jopa 500 € asti yhdistettynä 200 ilmaiskierrokseen on yksi markkinoiden vahvimmista tervetuliaispaketteista. Isle of Man -lisenssi on arvostettu, mutta huomaa: Isle of Man ei kuulu EU- eikä ETA-alueeseen, joten voitot ovat Suomessa verotettavaa tuloa. Katso myös vertailumme [parhaista pikakasinoista 2026](/pikakasinot/).
 
 ## Ensivaikutelma Ursa Casinosta
 
@@ -48,7 +48,7 @@ Ursa toimii Isle of Man -lisenssin alaisuudessa ja Pay N Play -mallilla. Epäsel
 
 ## Turvallisuus ja lisenssi
 
-Ursa Casino toimii Isle of Man -lisenssin alaisuudessa — yksi arvostetuimmista rahapelilisensseistä maailmassa, takaa verovapaat voitot suomalaisille. Muistathan myös, että [Suomen rahapelilaki muuttuu 2027](/suomen-rahapelilaki-2027/) — lisenssin merkitys voittojen verotuksessa korostuu.
+Ursa Casino toimii Isle of Man -lisenssin alaisuudessa — yksi arvostetuimmista rahapelilisensseistä maailmassa, joka valvoo pelaajan suojaa ja reilua peliä tiukasti. Verotuksen kannalta se ei kuitenkaan ole ETA-lisenssi: Isle of Man ei kuulu EU- eikä ETA-alueeseen, joten voitot ovat Suomessa verotettavaa tuloa, joka ilmoitetaan itse veroilmoituksella. Jos verovapaus on sinulle tärkeää, katso [verovapaat kasinot](/verovapaat-kasinot/). Muistathan myös, että [Suomen rahapelilaki muuttuu 2027](/suomen-rahapelilaki-2027/).
 
 ## Käytettävyys ja mobiili
 
@@ -63,7 +63,7 @@ Ursa Casino tarjoaa asiakaspalvelua live-chatin ja sähköpostin kautta. Jos ens
 Ursa Casino on paras valinta pelaajalle, joka:
 
 -   Haluaa suuren tervetuliaisbonus + runsaat ilmaiskierrokset
--   Arvostaa Isle of Man -lisenssin tuomia verovapaita voittoja
+-   Arvostaa tiukasti valvottua Isle of Man -lisenssiä (huom. voitot verotettavia)
 -   Haluaa nopean Pay N Play -aloituksen ilman rekisteröintiä
 -   Etsii laajan pelivalikoiman tunnettuja studioilta
 

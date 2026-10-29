@@ -138,6 +138,8 @@ Internettikasino suodattaa nämä riskit pois jo ennen kuin päädyt kasinolle. 
 **Kahnawake Gaming Commission  
 **Kanadalainen lisenssiviranomainen, joka on ollut toiminnassa pitkään. Sen alaisuudessa toimivat kasinot suuntautuvat usein kansainvälisille markkinoille.
 
+**Huomaa verotus:** näistä lisensseistä vain MGA ja Viron EMTA ovat ETA-alueen lisenssejä, joten vain niiden alla toimivien kasinoiden voitot ovat Suomessa verovapaita. Curaçaon, Gibraltarin, Kahnawaken ja muiden ETA-alueen ulkopuolisten lisenssien voitot ovat verotettavaa tuloa. Katso lista [verovapaista kasinoista](/verovapaat-kasinot/).
+
 ## Kasinot joita välttää
 
 Kaikki nettikasinot eivät ole samalla tasolla, vaikka ne näyttäisivät ulospäin samanlaisilta. Ongelmat eivät yleensä näy heti rekisteröitymisen jälkeen, vaan vasta myöhemmin, kun yrität kotiuttaa rahaa tai ratkaista jotain ongelmatilannetta.

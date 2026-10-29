@@ -8,7 +8,7 @@ Suomalaisille pelaajille virolaisilla kasinoilla on yksi konkreettinen etu ylits
 
 ### 1\. Verovapaat voitot
 
-Tämä on tärkein syy. EMTA-lisensoidun kasinon voitot ovat suomalaisille verovapaita — samoin kuin MGA (Malta) tai Isle of Man -lisenssoidut kasinot. Curacao- tai Anjouanin lisenssin alaisilla kasinoilla voitot sen sijaan pitää ilmoittaa verotuksessa.
+Tämä on tärkein syy. EMTA-lisensoidun kasinon voitot ovat suomalaisille verovapaita — samoin kuin MGA-lisensoidut (Malta) kasinot. Curacao- tai Anjouanin lisenssin alaisilla kasinoilla voitot sen sijaan pitää ilmoittaa verotuksessa.
 
 Lue lisää: [Suomen rahapelilaki 2027 — miten verotus muuttuu](/suomen-rahapelilaki-2027/)
 
@@ -29,12 +29,6 @@ Lue: [Trustly vs Zimpler vs Brite — mikä sopii sinulle?](/trustly-vs-zimpler-
 CasinoFriday on yksi tunnetuimmista EMTA-lisenssoiduista kasinoista Suomessa. 100 kierrätysvapaat ilmaiskierrosta, Zimpler Pay N Play ja yli 3 000 peliä tekevät siitä vahvan valinnan.  
 **Lisenssi:** Viron EMTA | **Maksutapa:** Zimpler | **Kotiutus:** muutamia minuutteja  
 [**Pelaa CasinoFridaylla →**](/go/casino-friday/) | [Lue arvostelu](/review/casinofriday/)
-
-### Jackburst Casino — kierrätysvapaat bonukset | EMTA
-
-Jackburst on EMTA-lisensoitu pikakasino kierrätysvapailla bonuksilla ja Zimpler-maksujärjestelmällä. Yli 3 000 peliä johtavilta studioilta.  
-**Lisenssi:** Viron EMTA | **Maksutapa:** Zimpler | **Kotiutus:** muutamia minuutteja  
-[**Pelaa Jackburst Casinolla →**](/go/jackburst/) | [Lue arvostelu](/review/jackburst/)
 
 ### Pelipeto — kierrätysvapaa bonus | EMTA
 

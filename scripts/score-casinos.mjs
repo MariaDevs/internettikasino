@@ -3,13 +3,15 @@
 // Run: npm run score
 //
 //   Base                                                    3.0
-//   Licence      EU/EEA (MGA, EMTA, Isle of Man) → tax-free +1.0
+//   Licence      EU/EEA (MGA, EMTA) → tax-free              +1.0
+//                Isle of Man (strict, but non-EEA: taxable) +0.5
 //                Curaçao                                    +0.2
 //                Anjouan / unknown                          +0.0
 //   Withdrawals  stated ≤ 15 min                            +0.4
 //                5–30 min                                   +0.3
 //                "a few minutes" (not measured precisely)   +0.2
 //   Bonus        wager-free value (cashback, cash spins)    +0.4
+//                small wager-free spins (≈ €5 value)        +0.3
 //                match bonus + free spins / spins only      +0.3
 //                match bonus only / small spin offer        +0.2
 //                small (≤ 50 €) or none                     +0.0–0.1
@@ -23,7 +25,7 @@ const casinos = JSON.parse(fs.readFileSync(FILE, 'utf8'));
 // Bonus quality is a judgement on the terms described in each review.
 const BONUS = {
   '247bet': 0.1, // 100 % up to 50 €
-  casinofriday: 0.3, // 100 free spins
+  casinofriday: 0.4, // 100–200 wager-free free spins
   'hurmio-casino-2': 0.4, // up to 15 % cashback
   'igni-casino': 0.3, // 100 % up to 500 € + 100 FS
   jackburst: 0.3, // 100 % up to 500 € + 50 FS, 30-day wagering window
@@ -32,9 +34,9 @@ const BONUS = {
   'lumo-casino': 0.4, // 100 % up to 300 € + 50 wager-free cash spins
   'munkki-kasino': 0.2, // 100 % up to 600 €
   onerush: 0, // no welcome bonus
-  pelipeto: 0.2, // 50 FS at 0.10 € for a 20–49 € deposit
+  pelipeto: 0.3, // 50 wager-free FS at 0.10 € for a 20–49 € deposit
   'rullat-casino': 0.4, // up to 15 % cashback
-  'shotz-kasino': 0.2, // 50 FS for a 20–49 € deposit
+  'shotz-kasino': 0.3, // 50 wager-free FS for a 20–49 € deposit
   'spiidi-kasino': 0.4, // 100 cash spins + 10 % cashback
   'spinnair-kasino': 0.4, // 200 FS + up to 20 % cashback
   spinnaus: 0.2, // 10 % cashback with 10x wagering
@@ -47,7 +49,8 @@ const BONUS = {
 };
 
 function licencePoints(raw) {
-  if (/mga|malta|eston|emta|viro|isle/i.test(raw)) return 1.0;
+  if (/mga|malta|eston|emta|viro/i.test(raw)) return 1.0;
+  if (/isle/i.test(raw)) return 0.5;
   if (/cura/i.test(raw)) return 0.2;
   return 0;
 }

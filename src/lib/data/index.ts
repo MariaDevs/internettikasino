@@ -91,5 +91,8 @@ export function licenseLabel(raw: string): string {
   return raw || '—';
 }
 
-/** Winnings are tax-free for Finnish players only under EU/EEA licences. */
-export const isTaxFree = (raw: string) => /mga|malta|eston|emta|viro|isle/i.test(raw);
+/**
+ * Winnings are tax-free for Finnish players only from games run in an EEA state.
+ * Isle of Man is a Crown Dependency outside the EU/EEA, so its winnings are taxable.
+ */
+export const isTaxFree = (raw: string) => /mga|malta|eston|emta|viro/i.test(raw);

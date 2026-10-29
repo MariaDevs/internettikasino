@@ -8,8 +8,6 @@ Internettikasino nostaa esiin ilmaiskierrokset, jotka tarjoavat oikeaa arvoa. T�
 
 Katso alta parhaat ilmaiskierrokset juuri nyt ja valitse tarjous, joka sopii omaan pelityyliisi.
 
-## Parhaat ilmaiskierrokset
-
 <!-- casino-list:0 -->
 
 ## Mitä ilmaiskierrokset ovat?
@@ -42,13 +40,27 @@ Tämän vuoksi kyseinen bonus kiinnostaa erityisesti uusia pelaajia. Se antaa ma
 
 Samaan aikaan ehdot ovat näissä tarjouksissa usein tavallista tiukemmat. Voittokatto, korkeampi kierrätys tai muut rajoitukset ovat yleisiä, joten tarjous toimii parhaiten testiboonuksena eikä niinkään pitkäaikaisen pelaamisen perustana.
 
-### Ilmaiskierrokset ilman kierrätystä
+## Kierrätysvapaat ilmaiskierrokset
 
-Ilmaiskierrokset ilman kierrätystä kuuluvat kaikkein halutuimpiin ilmaiskierroksiin, koska niiden idea on tavallista suoraviivaisempi. Kun kierrokset on pelattu, mahdolliset voitot siirtyvät suoremmin oikeaksi rahaksi ilman erillistä kierrätysvaatimusta tai huomattavasti kevyemmillä ehdoilla.
+Kierrätysvapaat ilmaiskierrokset kuuluvat kaikkein halutuimpiin ilmaiskierroksiin, koska niiden idea on tavallista suoraviivaisempi. Kun kierrokset on pelattu, voitot siirtyvät suoraan käteissaldolle ilman kierrätysvaatimusta – ne voi kotiuttaa heti tai pelata edelleen, ihan kuten omaa rahaa.
 
-Tämä tekee bonusmallista pelaajalle selkeämmän. Tarjouksen todellinen arvo näkyy helpommin, koska pelaajan ei tarvitse arvioida pitkää kierrätysprosessia ennen päätöksen tekemistä.
+Kasinot kutsuvat näitä usein **käteiskierroksiksi** (cash spins). Nimitys kertoo olennaisen: voitot ovat oikeaa rahaa, eivät bonusrahaa. Tavallisissa ilmaiskierroksissa voitot muuttuvat bonussaldoksi, joka täytyy kierrättää esimerkiksi 30–40 kertaa ennen kotiutusta.
 
-Kierrätysvapaat ilmaiskierrokset eivät ole aina määrältään suurimpia, mutta ne ovat usein parhaimpia. Juuri siksi ne kiinnostavat monia enemmän kuin tavalliset ilmaiskierrokset, joissa voitot jäävät vielä pitkäksi aikaa bonusrahan puolelle.
+### Kierrätysvapaat vs. tavalliset ilmaiskierrokset
+
+<table><tbody><tr><td><strong>Ominaisuus</strong></td><td><strong>Kierrätysvapaat ilmaiskierrokset</strong></td><td><strong>Tavalliset ilmaiskierrokset</strong></td></tr><tr><td>Voitot menevät</td><td>Käteissaldolle</td><td>Bonussaldolle</td></tr><tr><td>Kierrätysvaatimus</td><td>Ei ole</td><td>Tyypillisesti 30–40x voitoista</td></tr><tr><td>Kotiutus</td><td>Heti</td><td>Vasta kierrätyksen jälkeen</td></tr><tr><td>Maksimivoitto</td><td>Usein rajaton</td><td>Usein katto, esim. 100 €</td></tr><tr><td>Kierrosten määrä</td><td>Yleensä pienempi</td><td>Usein suurempi</td></tr></tbody></table>
+
+Kierrätysvapaat ilmaiskierrokset eivät siis ole aina määrältään suurimpia, mutta ne ovat lähes aina arvokkaimpia. Esimerkiksi 50 kierrätysvapaata kierrosta on käytännössä parempi tarjous kuin 200 tavallista kierrosta, joiden voitot on kierrätettävä 40-kertaisesti.
+
+### Mistä löytää kierrätysvapaat ilmaiskierrokset?
+
+Arvosteluissamme kierrätysvapaita kierroksia tarjoavat muun muassa [Lumo Casino](/review/lumo-casino/) (50 käteiskierrosta tervetuliaisbonuksen yhteydessä) ja [Spiidi Kasino](/review/spiidi-kasino/) (100 käteiskierrosta ja 10 % cashback). Myös kierrätysvapaa cashback on samaa sukua: osa tappioista palautetaan suoraan käteisenä. Vertaa kaikki bonusmallit [kasinobonukset-sivulla](/nettikasinobonukset/).
+
+Tarkista aina kolme asiaa ennen kuin lunastat:
+
+1.  **Onko voitoille maksimiraja?** Paras tarjous on rajaton.
+2.  **Mihin peliin kierrokset on sidottu?** Kierroksen arvo (esim. 0,10 € tai 0,20 €) ratkaisee enemmän kuin kierrosten määrä.
+3.  **Kauanko kierrokset ovat voimassa?** Moni tarjous vanhenee 24–72 tunnissa.
 
 ## Uusimmat ilmaiskierrokset
 

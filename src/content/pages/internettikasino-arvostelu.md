@@ -24,14 +24,15 @@ Jokainen kasino pisteytetään samalla kaavalla asteikolla 1–5. Perustaso on 3
 
 | Osa-alue | Pisteet |
 | --- | --- |
-| **Lisenssi** – EU/ETA (MGA, Viron EMTA, Isle of Man), verovapaat voitot | +1,0 |
+| **Lisenssi** – EU/ETA (MGA, Viron EMTA), verovapaat voitot | +1,0 |
+| **Lisenssi** – Isle of Man (tiukka valvonta, mutta ei ETA-maa: voitot verotettavia) | +0,5 |
 | **Lisenssi** – Curaçao (voitot verotettavia) | +0,2 |
 | **Lisenssi** – Anjouan tai tuntematon | 0 |
 | **Kotiutus** – luvattu käsittelyaika enintään 15 minuuttia | +0,4 |
 | **Kotiutus** – 5–30 minuuttia | +0,3 |
 | **Kotiutus** – "muutamassa minuutissa", ei tarkkaa aikaa | +0,2 |
 | **Bonus** – kierrätysvapaa arvo (käteispalautus, käteiskierrokset) | +0,4 |
-| **Bonus** – talletusbonus ja ilmaiskierroksia, tai pelkät ilmaiskierrokset | +0,3 |
+| **Bonus** – pieni kierrätysvapaa tarjous (noin 5 € arvo), talletusbonus ja ilmaiskierroksia, tai pelkät ilmaiskierrokset | +0,3 |
 | **Bonus** – pelkkä talletusbonus tai pieni kierrostarjous | +0,2 |
 | **Bonus** – pieni (alle 50 €) tai ei bonusta | 0–0,1 |
 | **Perusteellinen testi** – mm. asiakaspalvelu ja kotiutus testattu käytännössä | +0,2 |

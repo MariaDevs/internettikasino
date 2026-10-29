@@ -1,9 +1,9 @@
 [
   {
     "slug": "",
-    "h1": "Löydä parhaat kasinot ja bonukset saman katon alta",
-    "seoTitle": "Parhaat Nettikasinot 2026 — Testatut & Rehelliset Arviot",
-    "description": "Vertaa parhaat nettikasinot 2026 saman katon alta. Asiantuntijatiimimme testasi jokaisen kasinon — nopeat kotiutukset, rehelliset bonukset, ei hypeä.",
+    "h1": "Löydä luotettava nettikasino – testatut kasinot ja bonukset 2026",
+    "seoTitle": "Nettikasino 2026 – testatut nettikasinot ja rehelliset arviot",
+    "description": "Etsitkö luotettavaa nettikasinoa? Testasimme nettikasinot itse: verovapaat voitot, nopeat kotiutukset ja bonusehdot selkokielellä. Vertaa ja valitse 2026.",
     "published": "2017-06-16",
     "modified": "2026-10-29",
     "casinoLists": [
@@ -53,9 +53,9 @@
   },
   {
     "slug": "kasinot",
-    "h1": "Nettikasinot 2026 – Vertaa luotettavia kasinoita",
-    "seoTitle": "Nettikasinot - Valitse luotettava kasino 2026",
-    "description": "Kaikki luotettavat nettikasinot listattuna ja arvioituna — nopeat kotiutukset, rehelliset bonukset, selkeät ehdot. Vertaa ja valitse paras kasino 2026.",
+    "h1": "Nettikasinot 2026 – kaikki luotettavat kasinot vertailussa",
+    "seoTitle": "Nettikasinot & kasinot 2026 – kaikki luotettavat vertailussa",
+    "description": "Kaikki luotettavat kasinot ja nettikasinot 2026 yhdellä sivulla: lisenssit, verovapaus, kotiutusajat ja bonusehdot vertailussa. Valitse kasino faktoilla.",
     "published": "2026-04-01",
     "modified": "2026-10-29",
     "casinoLists": [
@@ -105,7 +105,7 @@
   },
   {
     "slug": "uudet-nettikasinot",
-    "h1": "Uudet nettikasinot 2026",
+    "h1": "Uudet kasinot 2026 – uusimmat nettikasinot testattuna",
     "seoTitle": "Uudet kasinot - Uusimmat nettikasinot 2026 listattuna",
     "description": "Uusimmat nettikasinot 2026 testattuna ja arvioituna. Löydä tuoreet kasinot, parhaat avausbonukset ja tärkeimmät tiedot ennen rekisteröintiä.",
     "published": "2026-04-01",
@@ -157,9 +157,9 @@
   },
   {
     "slug": "nettikasinobonukset",
-    "h1": "Nettikasinobonukset 2026 – katso parhaat kasinobonukset juuri nyt",
-    "seoTitle": "Nettikasinobonukset 2026 | Parhaat kasinobonukset juuri nyt",
-    "description": "Parhaat nettikasinobonukset 2026 listattuna. Vertaile talletusbonukset, ilmaiskierrokset, kierrätysvapaat bonukset ja ilman talletusta saatavat tarjoukset.",
+    "h1": "Kasinobonukset 2026 – parhaat nettikasinobonukset vertailussa",
+    "seoTitle": "Kasinobonukset 2026 – parhaat nettikasinobonukset juuri nyt",
+    "description": "Parhaat kasinobonukset 2026: talletusbonukset, ilmaiskierrokset, kierrätysvapaat bonukset ja cashback vertailussa. Ehdot selkokielellä ennen talletusta.",
     "published": "2026-04-02",
     "modified": "2026-10-29",
     "casinoLists": [
@@ -209,9 +209,9 @@
   },
   {
     "slug": "ilmaiskierrokset",
-    "h1": "Ilmaiskierroksia 2026 – Ilmaiskierrokset ilman talletusta listattuna",
-    "seoTitle": "Ilmaiskierrokset - Nappaa ilmaiskierrokset ilman talletusta 2026",
-    "description": "Parhaat ilmaiskierrokset 2026 — ilman talletusta ja ilman kierrätystä. Listasimme kaikki toimivat tarjoukset ja selitämme, mitkä kannattaa oikeasti ottaa.",
+    "h1": "Ilmaiskierrokset 2026 – ilman talletusta ja kierrätysvapaat",
+    "seoTitle": "Ilmaiskierrokset 2026 – ilman talletusta & kierrätysvapaat",
+    "description": "Ilmaiskierrokset 2026: ilmaiskierrokset ilman talletusta ja kierrätysvapaat ilmaiskierrokset listattuna. Katso mitkä tarjoukset kannattaa oikeasti ottaa.",
     "published": "2026-04-02",
     "modified": "2026-10-29",
     "casinoLists": [
@@ -261,12 +261,63 @@
   },
   {
     "slug": "livekasinot",
-    "h1": "Livekasinot 2026 — Parhaat Live Casino -sivustot Suomessa",
-    "seoTitle": "Livekasinot 2026 — Parhaat Live Casino -sivustot",
-    "description": "Parhaat livekasinot 2026 — live ruletti, blackjack, baccarat ja gameshow-pelit Evolution Gamingiltä. Testatut ja lisensoidut live casino -sivustot.",
+    "h1": "Livekasinot 2026 – paras livekasino suomalaisille",
+    "seoTitle": "Livekasino 2026 – parhaat livekasinot Suomessa",
+    "description": "Paras livekasino 2026: live-ruletti, blackjack, baccarat ja game show -pelit. Vertailimme livekasinot lisenssin, pöytävalikoiman ja kotiutusten perusteella.",
     "published": "2026-08-10",
-    "modified": "2026-09-09",
-    "casinoLists": []
+    "modified": "2026-10-29",
+    "casinoLists": [
+      [
+        {
+          "slug": "casinofriday",
+          "headline": "100 ilmaiskierrosta"
+        },
+        {
+          "slug": "pelipeto",
+          "headline": "Talleta 20–49 € ja saat 50 ilmaiskierrosta, arvo 0,10 €/kpl"
+        },
+        {
+          "slug": "shotz-kasino",
+          "headline": "Talleta 20–49 € ja saat 50 ilmaiskierrosta"
+        },
+        {
+          "slug": "lumo-casino",
+          "headline": "100% Bonus Jopa 300 € +50 Käteiskierrosta"
+        },
+        {
+          "slug": "igni-casino",
+          "headline": "100% Tervetulobonus 500€ asti + 100 ilmaiskierrosta"
+        },
+        {
+          "slug": "onerush",
+          "headline": "Yli 2000 peliä huippustudioilta"
+        },
+        {
+          "slug": "munkki-kasino",
+          "headline": "100% bonuksen jopa €600 asti"
+        },
+        {
+          "slug": "vauthi-kasino",
+          "headline": "Jopa 1000 € käteispottimme"
+        },
+        {
+          "slug": "247bet",
+          "headline": "100% bonuksen jopa €50 asti"
+        },
+        {
+          "slug": "kaahaus",
+          "headline": "100% Cashback"
+        },
+        {
+          "slug": "jackburst",
+          "headline": "100% bonus 500€ asti + 50 IK"
+        },
+        {
+          "slug": "ursa-casino",
+          "headline": "100% Bonus Jopa 500 € +  200 Ilmaiskierrosta"
+        }
+      ]
+    ]
   },
   {
     "slug": "kasinopelit",
@@ -322,36 +373,185 @@
   },
   {
     "slug": "verovapaat-kasinot",
-    "h1": "Verovapaat kasinot 2026 — Voitot tilille ilman veroseuraamuksia",
-    "seoTitle": "Verovapaat Kasinot 2026 — MGA ja Viro-lisenssit",
-    "description": "Verovapaat kasinot 2026 — MGA, Isle of Man ja Viron EMTA-lisenssit takaavat verovapaat voitot suomalaisille. Vertailu parhaista verovapaista kasinoista.",
+    "h1": "Verovapaat kasinot 2026 – voitot ilman veroja",
+    "seoTitle": "Verovapaat kasinot 2026 – verovapaa nettikasino listattuna",
+    "description": "Verovapaat kasinot 2026: EU/ETA-lisensoidut nettikasinot (MGA, Viron EMTA), joiden voitot ovat Suomessa verovapaita. Lista ja ehdot.",
     "published": "2026-08-10",
-    "modified": "2026-09-09",
-    "casinoLists": []
+    "modified": "2026-10-29",
+    "casinoLists": [
+      [
+        {
+          "slug": "casinofriday",
+          "headline": "100 ilmaiskierrosta"
+        },
+        {
+          "slug": "pelipeto",
+          "headline": "Talleta 20–49 € ja saat 50 ilmaiskierrosta, arvo 0,10 €/kpl"
+        },
+        {
+          "slug": "shotz-kasino",
+          "headline": "Talleta 20–49 € ja saat 50 ilmaiskierrosta"
+        },
+        {
+          "slug": "lumo-casino",
+          "headline": "100% Bonus Jopa 300 € +50 Käteiskierrosta"
+        },
+        {
+          "slug": "igni-casino",
+          "headline": "100% Tervetulobonus 500€ asti + 100 ilmaiskierrosta"
+        },
+        {
+          "slug": "onerush",
+          "headline": "Yli 2000 peliä huippustudioilta"
+        },
+        {
+          "slug": "munkki-kasino",
+          "headline": "100% bonuksen jopa €600 asti"
+        },
+        {
+          "slug": "vauthi-kasino",
+          "headline": "Jopa 1000 € käteispottimme"
+        },
+        {
+          "slug": "247bet",
+          "headline": "100% bonuksen jopa €50 asti"
+        }
+      ]
+    ]
   },
   {
     "slug": "pikakasinot",
-    "h1": "Pikakasinot 2026 — Parhaat Pay N Play Kasinot Suomessa",
-    "seoTitle": "Pikakasinot 2026 — Parhaat Pay N Play Kasinot Suomessa",
-    "description": "Vertaile parhaat pikakasinot 2026. Pay N Play -kasinot, joilla pelaat alle minuutissa — nopeat kotiutukset, verovapaat voitot ja bonukset vertailussa.",
+    "h1": "Pikakasinot 2026 – löydä paras pikakasino",
+    "seoTitle": "Pikakasinot 2026 – paras pikakasino Pay N Play -vertailussa",
+    "description": "Pikakasinot 2026: paras pikakasino pelaa pankkitunnuksilla ilman rekisteröitymistä ja maksaa voitot minuuteissa. Vertailu, verovapaus ja bonukset.",
     "published": "2026-08-03",
-    "modified": "2026-10-25",
-    "casinoLists": []
+    "modified": "2026-10-29",
+    "casinoLists": [
+      [
+        {
+          "slug": "casinofriday",
+          "headline": "100 ilmaiskierrosta"
+        },
+        {
+          "slug": "pelipeto",
+          "headline": "Talleta 20–49 € ja saat 50 ilmaiskierrosta, arvo 0,10 €/kpl"
+        },
+        {
+          "slug": "shotz-kasino",
+          "headline": "Talleta 20–49 € ja saat 50 ilmaiskierrosta"
+        },
+        {
+          "slug": "lumo-casino",
+          "headline": "100% Bonus Jopa 300 € +50 Käteiskierrosta"
+        },
+        {
+          "slug": "igni-casino",
+          "headline": "100% Tervetulobonus 500€ asti + 100 ilmaiskierrosta"
+        },
+        {
+          "slug": "onerush",
+          "headline": "Yli 2000 peliä huippustudioilta"
+        },
+        {
+          "slug": "ursa-casino",
+          "headline": "100% Bonus Jopa 500 € +  200 Ilmaiskierrosta"
+        },
+        {
+          "slug": "munkki-kasino",
+          "headline": "100% bonuksen jopa €600 asti"
+        },
+        {
+          "slug": "vauthi-kasino",
+          "headline": "Jopa 1000 € käteispottimme"
+        },
+        {
+          "slug": "247bet",
+          "headline": "100% bonuksen jopa €50 asti"
+        },
+        {
+          "slug": "kaahaus",
+          "headline": "100% Cashback"
+        },
+        {
+          "slug": "jackburst",
+          "headline": "100% bonus 500€ asti + 50 IK"
+        },
+        {
+          "slug": "hurmio-casino-2",
+          "headline": "Jopa 15 % Palautuksen"
+        },
+        {
+          "slug": "rullat-casino",
+          "headline": "Jopa 15 % Palautuksen"
+        }
+      ]
+    ]
   },
   {
     "slug": "kasino-ilman-rekisteroitymista",
-    "h1": "Kasino ilman rekisteröintiä 2026 — Pelaa ilman tiliä",
-    "seoTitle": "Kasino ilman rekisteröintiä 2026 — Pelaa Pay N Play",
-    "description": "Kasino ilman rekisteröintiä 2026 — pelaa suoraan pankkitunnuksillasi. Vertailimme parhaat Pay N Play -kasinot, nopeat kotiutukset, ei lomakkeita.",
+    "h1": "Nettikasino ilman rekisteröitymistä 2026",
+    "seoTitle": "Nettikasino ilman rekisteröitymistä 2026 – pelaa heti",
+    "description": "Nettikasino ilman rekisteröitymistä: pelaa pankkitunnuksilla ilman tilin luomista. Vertailimme Pay N Play -kasinot, kotiutusajat ja verovapaat voitot.",
     "published": "2026-08-10",
-    "modified": "2026-10-25",
-    "casinoLists": []
+    "modified": "2026-10-29",
+    "casinoLists": [
+      [
+        {
+          "slug": "casinofriday",
+          "headline": "100 ilmaiskierrosta"
+        },
+        {
+          "slug": "pelipeto",
+          "headline": "Talleta 20–49 € ja saat 50 ilmaiskierrosta, arvo 0,10 €/kpl"
+        },
+        {
+          "slug": "shotz-kasino",
+          "headline": "Talleta 20–49 € ja saat 50 ilmaiskierrosta"
+        },
+        {
+          "slug": "lumo-casino",
+          "headline": "100% Bonus Jopa 300 € +50 Käteiskierrosta"
+        },
+        {
+          "slug": "igni-casino",
+          "headline": "100% Tervetulobonus 500€ asti + 100 ilmaiskierrosta"
+        },
+        {
+          "slug": "onerush",
+          "headline": "Yli 2000 peliä huippustudioilta"
+        },
+        {
+          "slug": "ursa-casino",
+          "headline": "100% Bonus Jopa 500 € +  200 Ilmaiskierrosta"
+        },
+        {
+          "slug": "munkki-kasino",
+          "headline": "100% bonuksen jopa €600 asti"
+        },
+        {
+          "slug": "vauthi-kasino",
+          "headline": "Jopa 1000 € käteispottimme"
+        },
+        {
+          "slug": "247bet",
+          "headline": "100% bonuksen jopa €50 asti"
+        },
+        {
+          "slug": "kaahaus",
+          "headline": "100% Cashback"
+        },
+        {
+          "slug": "jackburst",
+          "headline": "100% bonus 500€ asti + 50 IK"
+        }
+      ]
+    ]
   },
   {
     "slug": "parhaat-kasinot",
-    "h1": "Top 10 nettikasinot",
-    "seoTitle": "Top 10 Nettikasinot 2026 — Vertailu ja Suositukset",
-    "description": "Top 10 nettikasinot 2026 — parhaat kasinot vertailussa. Lisenssit, bonukset, kotiutusajat ja pelivalikoima yhdessä listassa.",
+    "h1": "Parhaat nettikasinot 2026 – top 10 vertailussa",
+    "seoTitle": "Parhaat nettikasinot 2026 – top 10 paras nettikasino",
+    "description": "Parhaat nettikasinot 2026 top 10 -listana. Paras nettikasino verovapailla voitoilla, nopeilla kotiutuksilla ja reiluilla bonuksilla – testattu ja pisteytetty.",
     "published": "2026-04-02",
     "modified": "2026-10-29",
     "casinoLists": [
