@@ -63,6 +63,17 @@ export const CATEGORIES: Record<string, { name: string; description: string }> =
 };
 
 export const getCasino = (slug: string) => casinos.find((c) => c.slug === slug);
+
+/**
+ * A page's casino list, ranked by rating so the position always agrees with the
+ * score shown next to it. The page keeps its own selection and bonus headlines.
+ */
+export function rankEntries(entries: CasinoListEntry[]): { entry: CasinoListEntry; casino: Casino }[] {
+  return entries
+    .map((entry) => ({ entry, casino: getCasino(entry.slug) }))
+    .filter((r): r is { entry: CasinoListEntry; casino: Casino } => !!r.casino)
+    .sort((a, b) => (b.casino.rating ?? 0) - (a.casino.rating ?? 0));
+}
 export const getPage = (slug: string) => pages.find((p) => p.slug === slug);
 export const getPost = (slug: string) => posts.find((p) => p.slug === slug);
 

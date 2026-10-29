@@ -1,15 +1,13 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { ShieldCheck } from 'lucide-react';
-import { getCasino, isTaxFree, licenseLabel, type Casino, type CasinoListEntry } from '@/lib/data';
+import { isTaxFree, licenseLabel, rankEntries, type CasinoListEntry } from '@/lib/data';
 import StarRating from './StarRating';
 import PlayButton from './PlayButton';
 
 /** Ranked casino comparison list used on hub pages (replaces the WP "table-s1" widget). */
 export default function CasinoList({ entries }: { entries: CasinoListEntry[] }) {
-  const rows = entries
-    .map((entry) => ({ entry, casino: getCasino(entry.slug) }))
-    .filter((r): r is { entry: CasinoListEntry; casino: Casino } => !!r.casino);
+  const rows = rankEntries(entries);
   if (!rows.length) return null;
 
   return (

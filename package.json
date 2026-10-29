@@ -8,7 +8,8 @@
     "build:static": "node scripts/generate-redirects.mjs && node -e \"require('child_process').execSync('next build',{stdio:'inherit',env:{...process.env,EXPORT:'true'}})\"",
     "start": "next start",
     "lint": "eslint",
-    "redirects": "node scripts/generate-redirects.mjs"
+    "redirects": "node scripts/generate-redirects.mjs",
+    "score": "node scripts/score-casinos.mjs"
   },
   "dependencies": {
     "clsx": "^2.1.1",

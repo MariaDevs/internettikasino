@@ -21,41 +21,16 @@ Yhä useampi top kasinoista on pikakasino, eli pääset pelaamaan pay n play mal
 
 Pelaaminen [internettikasino.com](/) vahvistamalla pelisivustolla ei koskaan jää kiinni siitä että kokisit teknisiä ongelmia tai epäselviä ehtoja. Me varmistamme puolestasi kaiken jota sinun tulee kasinosta tietää jotta voit pelata huoletta!
 
-## Mitä pelaajat sanovat Internettikasinosta
+## Mitä jokainen arvostelumme kertoo
 
-Pelaajien kokemukset keskittyvät samoihin asioihin: kuinka helppo kasino on löytää, toimivatko suositukset oikeasti ja vastaako sisältö todellista pelikokemusta.
+Jokainen [kasinoarvostelu](/review/) on kirjoitettu saman testin pohjalta, joten voit verrata kasinoita suoraan keskenään:
 
-★★★★★
+-   **Lisenssi ja verotus** – näet heti, ovatko voitot Suomessa verovapaita (MGA, Viron EMTA, Isle of Man) vai verotettavia (esim. Curaçao)
+-   **Bonusehdot selkokielellä** – kierrätysvaatimus, maksimipanos ja aikaraja ennen kuin talletat
+-   **Kotiutusaika** – kuinka nopeasti rahat ovat tilillä ja vaatiiko kasino erillisen KYC-tunnistautumisen
+-   **Heikkoudet** – myös puuttuvat bonukset, hitaat maksut ja muut miinukset kerrotaan suoraan
 
-”Olin aiemmin valinnut kasinot pelkän bonuksen perusteella, mikä johti usein siihen, että kotiutukset venyivät tai ehdot tulivat vastaan liian myöhään. Täällä arvosteluissa oli avattu nämä asiat selkeästi etukäteen.”
-
-Mikko R.
-
-Suositeltu kasino: Lumo Casino
-
-★★★★★
-
-”Tykkäsin erityisesti siitä, että sivusto ei yritä myydä jokaista kasinoa parhaana vaihtoehtona. Erot oli selitetty konkreettisesti, ja pystyin nopeasti valitsemaan itselle sopivan.”
-
-Laura K.
-
-Suositeltu kasino: Spiidi Kasino
-
-★★★★★
-
-”Nopeat kotiutukset oli itselle tärkein juttu. Löysin täältä kasinon, jossa rahat tulivat tilille samana päivänä, eikä prosessi ollut monimutkainen.”
-
-Janne M.
-
-Suositeltu kasino: Rullat Casino
-
-★★★★★
-
-”Bonuksista oli kerrottu suoraan, mitkä ovat oikeasti hyviä ja mitkä eivät. Tämä säästi aikaa ja hermoja, koska en joutunut lukemaan pitkiä ehtoja jokaiselta kasinolta erikseen.”
-
-Sara L.
-
-Suositeltu kasino: Ursa Casino
+Arvosana muodostuu näiden kokonaisuudesta, ei bonuksen koosta. Lue tarkemmin [miten arvioimme kasinot](/internettikasino-arvostelu/).
 
 ## Lue lisää ennen kuin valitset kasinosi
 

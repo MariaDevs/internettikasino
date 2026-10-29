@@ -87,8 +87,8 @@ export default async function ReviewPage({ params }: Props) {
               <div>
                 <h1 className="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">{casino.name} arvostelu</h1>
                 <div className="mt-2 flex items-center gap-2">
-                  <StarRating value={casino.rating} size={18} />
-                  {casino.rating && <span className="text-sm font-semibold text-slate-700">{casino.rating}/5</span>}
+                  <StarRating value={casino.rating} size={18} showValue={false} />
+                  {casino.rating && <span className="text-sm font-semibold text-slate-700">{casino.rating.toFixed(1)}/5</span>}
                 </div>
                 <div className="mt-3">
                   <AuthorBox compact published={casino.published} modified={casino.modified} />

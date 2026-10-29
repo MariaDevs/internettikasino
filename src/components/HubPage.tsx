@@ -1,7 +1,7 @@
 import type { Page } from '@/lib/data';
 import { loadContent } from '@/lib/content';
 import { breadcrumbSchema, faqSchema, itemListSchema, webPageSchema } from '@/lib/schema';
-import { getCasino } from '@/lib/data';
+import { rankEntries } from '@/lib/data';
 import AuthorBox from './AuthorBox';
 import Breadcrumb from './Breadcrumb';
 import Disclosure from './Disclosure';
@@ -23,7 +23,7 @@ export default function HubPage({ page }: { page: Page }) {
     breadcrumbSchema(crumbs),
     ...(content.faqs.length ? [faqSchema(content.faqs)] : []),
     ...(firstList.length
-      ? [itemListSchema(page.h1, firstList.map((e) => ({ name: getCasino(e.slug)?.name ?? e.slug, path: `/review/${e.slug}/` })))]
+      ? [itemListSchema(page.h1, rankEntries(firstList).map(({ casino }) => ({ name: casino.name, path: `/review/${casino.slug}/` })))]
       : []),
   ];
 

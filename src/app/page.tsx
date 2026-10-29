@@ -9,7 +9,7 @@ import PostCard from '@/components/PostCard';
 import Prose from '@/components/Prose';
 import StarRating from '@/components/StarRating';
 import { loadContent } from '@/lib/content';
-import { getCasino, getPage, posts, type Casino } from '@/lib/data';
+import { casinos, getPage, posts, rankEntries } from '@/lib/data';
 import { buildMetadata } from '@/lib/meta';
 import { faqSchema, itemListSchema, webPageSchema } from '@/lib/schema';
 
@@ -17,8 +17,6 @@ const home = getPage('')!;
 
 export const metadata = buildMetadata({ path: '/', title: home.seoTitle, description: home.description });
 
-// Same top-3 the WordPress hero carousel featured.
-const HERO = ['tikkari-kasino', 'taika-spinni', 'spinnair-kasino'];
 
 const USPS = [
   { icon: BadgeCheck, title: 'Itse testatut', text: 'Talletus, bonus, pelaaminen ja kotiutus — jokainen kasino käydään läpi.' },
@@ -29,8 +27,9 @@ const USPS = [
 
 export default function HomePage() {
   const content = loadContent('pages', '');
-  const hero = HERO.map(getCasino).filter((c): c is Casino => !!c);
-  const list = home.casinoLists[0] ?? [];
+  // Hero = the three highest-rated casinos, so "#1" always matches the scores.
+  const hero = casinos.slice(0, 3);
+  const list = rankEntries(home.casinoLists[0] ?? []);
 
   return (
     <>
@@ -38,7 +37,7 @@ export default function HomePage() {
         data={[
           webPageSchema({ path: '/', title: home.seoTitle, description: home.description, modified: home.modified }),
           ...(content.faqs.length ? [faqSchema(content.faqs)] : []),
-          itemListSchema('Parhaat nettikasinot', list.map((e) => ({ name: getCasino(e.slug)?.name ?? e.slug, path: `/review/${e.slug}/` }))),
+          itemListSchema('Parhaat nettikasinot', list.map(({ casino }) => ({ name: casino.name, path: `/review/${casino.slug}/` }))),
         ]}
       />
       <section className="bg-gradient-to-b from-brand-950 to-brand-900 text-white">
@@ -56,7 +55,7 @@ export default function HomePage() {
                   <StarRating value={c.rating} size={14} />
                 </div>
                 <Link href={`/review/${c.slug}/`} className="mt-3 flex h-20 items-center justify-center rounded-xl border border-slate-200 bg-white">
-                  <Image src={c.logo} alt={`${c.name} logo`} width={180} height={70} priority={i === 0} className="h-auto max-h-14 w-auto object-contain" />
+                  <Image src={c.logo} alt={`${c.name} logo`} width={180} height={70} priority className="h-auto max-h-14 w-auto object-contain" />
                 </Link>
                 <p className="mt-3 text-lg font-bold">{c.name}</p>
                 <p className="flex-1 font-semibold text-brand-800">{c.bonus}</p>

@@ -18,6 +18,26 @@ Jokainen kasino käydään läpi samalla testillä, jotta arviot ovat vertailuke
 
 Arvosana muodostuu kokonaisuudesta. Iso bonus ei nosta kasinoa listalla, jos kotiutukset ovat hitaita tai ehdot epäreiluja.
 
+## Näin arvosana lasketaan
+
+Jokainen kasino pisteytetään samalla kaavalla asteikolla 1–5. Perustaso on 3,0, johon lisätään:
+
+| Osa-alue | Pisteet |
+| --- | --- |
+| **Lisenssi** – EU/ETA (MGA, Viron EMTA, Isle of Man), verovapaat voitot | +1,0 |
+| **Lisenssi** – Curaçao (voitot verotettavia) | +0,2 |
+| **Lisenssi** – Anjouan tai tuntematon | 0 |
+| **Kotiutus** – luvattu käsittelyaika enintään 15 minuuttia | +0,4 |
+| **Kotiutus** – 5–30 minuuttia | +0,3 |
+| **Kotiutus** – "muutamassa minuutissa", ei tarkkaa aikaa | +0,2 |
+| **Bonus** – kierrätysvapaa arvo (käteispalautus, käteiskierrokset) | +0,4 |
+| **Bonus** – talletusbonus ja ilmaiskierroksia, tai pelkät ilmaiskierrokset | +0,3 |
+| **Bonus** – pelkkä talletusbonus tai pieni kierrostarjous | +0,2 |
+| **Bonus** – pieni (alle 50 €) tai ei bonusta | 0–0,1 |
+| **Perusteellinen testi** – mm. asiakaspalvelu ja kotiutus testattu käytännössä | +0,2 |
+
+Lisenssi painaa eniten, koska se ratkaisee, ovatko voitot Suomessa verovapaita ja minkä viranomaisen puoleen voit kääntyä ongelmatilanteessa. Kasinolistat järjestetään arvosanan mukaan.
+
 ## Miksi lisenssi ja verovapaus näkyvät joka arviossa
 
 Suomessa EU- tai ETA-alueella lisensoidun kasinon voitot ovat verovapaita. EU/ETA-alueen ulkopuolella lisensoidun kasinon (esim. Curaçao) voitot ovat verotettavaa tuloa. Merkitsemme tämän jokaiseen arvosteluun ja vertailulistaan, koska se vaikuttaa suoraan siihen, paljonko voitoista jää käteen. Lue lisää [verovapaista kasinoista](/verovapaat-kasinot/) ja [rahapelilain muutoksesta 2027](/suomen-rahapelilaki-2027/).
