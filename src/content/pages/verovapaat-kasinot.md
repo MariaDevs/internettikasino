@@ -27,7 +27,7 @@ ETA-alueeseen kuuluvat EU-maat sekä Norja, Islanti ja Liechtenstein. Ratkaiseva
 
 ## MGA-kasinot – Maltan lisenssi
 
-Malta Gaming Authority (MGA) on Euroopan tunnetuin rahapelivalvoja, ja MGA-kasinot ovat suomalaisille pelaajille pitkään olleet verovapaan pelaamisen perusvalinta. MGA valvoo pelien reiluutta, pelaajien varojen erillään pitämistä ja vastuullisen pelaamisen työkaluja. Riitatilanteissa pelaaja voi kääntyä MGA:n puoleen.
+Malta Gaming Authority (MGA) on Euroopan tunnetuin rahapelivalvoja, ja [MGA-kasinot](/mga-kasinot/) ovat suomalaisille pelaajille pitkään olleet verovapaan pelaamisen perusvalinta. MGA valvoo pelien reiluutta, pelaajien varojen erillään pitämistä ja vastuullisen pelaamisen työkaluja. Riitatilanteissa pelaaja voi kääntyä MGA:n puoleen.
 
 Listallamme MGA-lisenssillä toimivat muun muassa [Lumo Casino](/review/lumo-casino/), [Igni Casino](/review/igni-casino/), [Munkki Kasino](/review/munkki-kasino/), [Vauthi Kasino](/review/vauthi-kasino/) ja [247Bet](/review/247bet/).
 
@@ -35,7 +35,7 @@ Listallamme MGA-lisenssillä toimivat muun muassa [Lumo Casino](/review/lumo-cas
 
 Viron vero- ja tullihallitus (Maksu- ja Tolliamet, EMTA) myöntää rahapelilisenssejä, ja Viro on EU-maa. Virolaiset nettikasinot ovat nousseet suomalaisten suosikeiksi: ne toimivat usein suomeksi, käyttävät Pay N Play -maksuja ja maksavat voitot nopeasti – verovapaasti.
 
-Pisteytyksemme kärjessä on kolme virolaista pikakasinoa: [CasinoFriday](/review/casinofriday/), [Pelipeto](/review/pelipeto/) ja [Shotz Kasino](/review/shotz-kasino/). Myös [OneRush](/review/onerush/) toimii EMTA-lisenssillä. Lue lisää: [virolaiset nettikasinot](/virolaiset-nettikasinot/).
+Pisteytyksemme kärjessä on kolme virolaista pikakasinoa: [CasinoFriday](/review/casinofriday/), [Pelipeto](/review/pelipeto/) ja [Shotz Kasino](/review/shotz-kasino/). Myös [OneRush](/review/onerush/) toimii EMTA-lisenssillä. Useimmat virolaiset kasinot käyttävät Zimpleriä – katso [Zimpler-kasinot](/zimpler-kasinot/). Lue lisää: [virolaiset nettikasinot](/virolaiset-nettikasinot/).
 
 ## Näin tarkistat, onko kasino verovapaa
 

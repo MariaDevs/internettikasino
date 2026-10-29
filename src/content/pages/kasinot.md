@@ -124,7 +124,7 @@ Internettikasino suodattaa nämä riskit pois jo ennen kuin päädyt kasinolle. 
 ### Yleisimmät kasino lisenssit
 
 **Maltan peliviranomainen (MGA)  
-**Yksi tunnetuimmista lisensseistä. MGA valvoo kasinoita tarkasti ja edellyttää selkeitä käytäntöjä maksuliikenteessä, turvallisuudessa ja vastuullisessa pelaamisessa. Monet suuret ja vakiintuneet kasinot toimivat tämän lisenssin alla.
+**Yksi tunnetuimmista lisensseistä. MGA valvoo kasinoita tarkasti ja edellyttää selkeitä käytäntöjä maksuliikenteessä, turvallisuudessa ja vastuullisessa pelaamisessa. Monet suuret ja vakiintuneet kasinot toimivat tämän lisenssin alla. Katso testatut [MGA-kasinot](/mga-kasinot/).
 
 **Viron vero- ja tullihallitus (EMTA)  
 **Eurooppalainen lisenssi, joka on yleistynyt viime vuosina. Viron lisenssin alla toimivat kasinot noudattavat tiukkoja sääntöjä, ja niitä pidetään yleisesti luotettavina toimijoina.

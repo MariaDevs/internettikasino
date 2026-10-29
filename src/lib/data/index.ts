@@ -9,6 +9,8 @@ export interface Casino {
   bonus: string;
   freeSpins: string;
   license: string;
+  /** Named instant-payment providers from the review's withdrawal table; empty when unnamed. */
+  payments: string[];
   rating: number | null;
   go: string | null;
   affiliateUrl: string | null;

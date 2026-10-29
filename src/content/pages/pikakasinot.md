@@ -10,7 +10,7 @@ Lista on järjestetty arvosanan mukaan. Kärjessä ovat EU/ETA-lisensoidut pikak
 
 ## Mikä on pikakasino?
 
-Pikakasino – tunnetaan myös nimillä Pay N Play -kasino ja kasino ilman rekisteröitymistä – on nettikasino, jolle et avaa pelitiliä perinteisellä lomakkeella. Et valitse käyttäjätunnusta, et keksi salasanaa etkä lähetä henkilöllisyystodistusta. Sen sijaan maksupalvelu (Trustly, Zimpler tai Brite) tunnistaa sinut verkkopankin kautta ja välittää kasinolle tarvittavat tiedot. Kasino luo tilisi automaattisesti.
+Pikakasino – tunnetaan myös nimillä Pay N Play -kasino ja kasino ilman rekisteröitymistä, ja niistä puhutaan usein yhteisnimellä Pay N Play -kasinot – on nettikasino, jolle et avaa pelitiliä perinteisellä lomakkeella. Et valitse käyttäjätunnusta, et keksi salasanaa etkä lähetä henkilöllisyystodistusta. Sen sijaan maksupalvelu (Trustly, Zimpler tai Brite) tunnistaa sinut verkkopankin kautta ja välittää kasinolle tarvittavat tiedot. Kasino luo tilisi automaattisesti.
 
 Pikakasinon idea on poistaa kaikki se kitka, joka perinteisessä nettikasinossa on talletuksen ja pelaamisen välissä. Rekisteröityminen, sähköpostin vahvistus ja asiakirjojen lähettäminen jäävät pois, koska pankki on jo tunnistanut sinut vahvasti. Samasta syystä myös kotiutukset ovat nopeampia: kasinon ei tarvitse erikseen selvittää, kuka olet ja mihin tilille rahat maksetaan.
 
@@ -33,7 +33,7 @@ Pikakasinon nopeus perustuu maksupalveluun, joka hoitaa sekä tunnistautumisen e
 
 <table><tbody><tr><td><strong>Maksutapa</strong></td><td><strong>Tausta</strong></td><td><strong>Tyypillinen kotiutusaika</strong></td><td><strong>Huomioitavaa</strong></td></tr><tr><td>Trustly</td><td>Ruotsalainen, Pay N Play -mallin kehittäjä</td><td>Minuuteista muutamaan tuntiin</td><td>Laajin kasinokattavuus</td></tr><tr><td>Zimpler</td><td>Ruotsalainen, vahva Suomessa</td><td>Usein muutamassa minuutissa</td><td>Yleinen virolaisilla pikakasinoilla</td></tr><tr><td>Brite</td><td>Ruotsalainen, uusin tulokas</td><td>Usein muutamassa minuutissa</td><td>Pikasiirrot pankkien välillä</td></tr></tbody></table>
 
-Kaikki kolme ovat turvallisia ja toimivat kaikkien suomalaisten pankkien kanssa. Kotiutuksen todellinen nopeus riippuu enemmän kasinosta kuin maksupalvelusta: jos kasino käsittelee kotiutukset automaattisesti, raha liikkuu minuuteissa. Jos kotiutus menee käsin tarkistettavaksi, se voi viedä tunteja. Lue tarkempi vertailu: [Trustly vs Zimpler vs Brite](/trustly-vs-zimpler-vs-brite/).
+Katso testatut kasinot maksutavoittain: [Trustly-kasinot](/trustly-kasinot/), [Zimpler-kasinot](/zimpler-kasinot/) ja [Brite-kasinot](/brite-kasinot/). Kaikki kolme ovat turvallisia ja toimivat kaikkien suomalaisten pankkien kanssa. Kotiutuksen todellinen nopeus riippuu enemmän kasinosta kuin maksupalvelusta: jos kasino käsittelee kotiutukset automaattisesti, raha liikkuu minuuteissa. Jos kotiutus menee käsin tarkistettavaksi, se voi viedä tunteja. Lue tarkempi vertailu: [Trustly vs Zimpler vs Brite](/trustly-vs-zimpler-vs-brite/).
 
 ## Pikakasino ja verotus – milloin voitot ovat verovapaita?
 

@@ -76,7 +76,7 @@ OP, Nordea, Danske Bank, S-Pankki — pienempi tuki kuin Trustlylla, mutta suuri
 
 * * *
 
-## Brite — kotimainen haastaja
+## Brite — uusin haastaja
 
 ### Mikä se on?
 
@@ -126,9 +126,19 @@ Markkinoille on tullut myös kotimaisia vaihtoehtoja:
 
 **Trumo** on suomalainen maksupalvelu, joka toimii samalla pankkitunnistautumisen periaatteella mutta on kehitetty erityisesti suomalaisille pelaajille. Saatavilla yhä useammalla uudella kasinolla.
 
-**Viljo** on toinen kotimainen maksupalvelu, joka on saanut jalansijaa erityisesti uusilla pikakasinoilla. Mainio Casino on esimerkki kasinosta, joka käyttää Viljoa.
+**Viljo** on toinen kotimainen maksupalvelu, joka on saanut jalansijaa erityisesti uusilla pikakasinoilla.
 
 Kotimaiset vaihtoehdot saattavat yleistyä entisestään vuoden 2027 rahapelilain myötä, kun Suomeen haetaan lisenssiä.
+
+* * *
+
+## Kasinot maksutavoittain
+
+Katso testatut kasinot kullekin maksutavalle:
+
+-   [Trustly-kasinot](/trustly-kasinot/) – laajin tuki, erityisesti verovapailla MGA-kasinoilla
+-   [Zimpler-kasinot](/zimpler-kasinot/) – suosittu virolaisilla EMTA-kasinoilla, joiden voitot ovat verovapaita
+-   [Brite-kasinot](/brite-kasinot/) – nopeimmat kotiutukset, mutta testaamamme Brite-kasinot toimivat Curaçao-lisenssillä
 
 * * *
 

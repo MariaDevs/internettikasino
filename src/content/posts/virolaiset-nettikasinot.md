@@ -48,6 +48,8 @@ Shotz Kasino on pitkäikäinen EMTA-lisensoitu kasino kierrätysvapailla bonuksi
 **Lisenssi:** Viron EMTA | **Maksutapa:** Zimpler | **Kotiutus:** muutamia minuutteja  
 [**Pelaa Shotz Kasinolla →**](/go/shotz/) | [Lue arvostelu](/review/shotz-kasino/)
 
+Useimmat virolaiset pikakasinot käyttävät Zimpler-maksuja – katso kaikki testatut [Zimpler-kasinot](/zimpler-kasinot/).
+
 ## EMTA vs. MGA — kumpi on parempi lisenssi?
 
 Molemmat ovat erinomaisia ja tuottavat suomalaisille verovapaita voittoja. Käytännön erot:

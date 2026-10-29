@@ -6,6 +6,9 @@
     "bonus": "100 ilmaiskierrosta",
     "freeSpins": "100 ilmaiskierrosta",
     "license": "Estonian",
+    "payments": [
+      "Zimpler"
+    ],
     "rating": 5,
     "go": "casino-friday",
     "affiliateUrl": "https://go.funnz.partners/visit/?bta=38445&nci=5599&utm_campaign=FICF",
@@ -22,6 +25,9 @@
     "bonus": "Talleta 20–49 € ja saat 50 ilmaiskierrosta, arvo 0,10 €/kpl",
     "freeSpins": "50 ilmaiskierrosta",
     "license": "Estonian",
+    "payments": [
+      "Zimpler"
+    ],
     "rating": 4.9,
     "go": "pelipeto",
     "affiliateUrl": "https://go.funnz.partners/visit/?bta=38445&nci=5832&utm_campaign=FIPE",
@@ -38,6 +44,9 @@
     "bonus": "Talleta 20–49 € ja saat 50 ilmaiskierrosta",
     "freeSpins": "50 ilmaiskierrosta",
     "license": "Estonian",
+    "payments": [
+      "Zimpler"
+    ],
     "rating": 4.9,
     "go": "shotz",
     "affiliateUrl": "https://go.funnz.partners/visit/?bta=38445&nci=5808&utm_campaign=FISHZ",
@@ -54,6 +63,9 @@
     "bonus": "100% Bonus Jopa 300 € +50 Käteiskierrosta",
     "freeSpins": "50 Käteiskierrosta",
     "license": "MGA",
+    "payments": [
+      "Trustly"
+    ],
     "rating": 4.7,
     "go": "lumo",
     "affiliateUrl": "https://media1.casimbaaff.com/redirect.aspx?pid=54814&bid=1499&lpid=125",
@@ -70,6 +82,9 @@
     "bonus": "100% Tervetulobonus 500€ asti + 100 ilmaiskierrosta",
     "freeSpins": "",
     "license": "MGA",
+    "payments": [
+      "Trustly"
+    ],
     "rating": 4.6,
     "go": "igni",
     "affiliateUrl": "https://media1.casimbaaff.com/redirect.aspx?pid=54824&lpid=60&bid=1522",
@@ -86,6 +101,9 @@
     "bonus": "Yli 2000 peliä huippustudioilta",
     "freeSpins": "Kotiutukset noin 10 minuutissa",
     "license": "Estonian",
+    "payments": [
+      "Trustly"
+    ],
     "rating": 4.6,
     "go": "onerush",
     "affiliateUrl": "https://record.epic.partners/_Tp2xlTM-kcXlD9UB4eAeYmNd7ZgqdRLk/1/",
@@ -102,6 +120,9 @@
     "bonus": "100% bonuksen jopa €600 asti",
     "freeSpins": "",
     "license": "MGA",
+    "payments": [
+      "Trustly"
+    ],
     "rating": 4.5,
     "go": "munkki",
     "affiliateUrl": "https://oneupengine.com/C.ashx?btag=a_5404b_144c_&affid=1031&siteid=5404&adid=144&c=",
@@ -118,6 +139,7 @@
     "bonus": "Jopa 1000 € käteispottimme",
     "freeSpins": "Jopa 1000 € käteispottimme",
     "license": "MGA",
+    "payments": [],
     "rating": 4.5,
     "go": "vauthi",
     "affiliateUrl": "https://media1.casimbaaff.com/redirect.aspx?pid=54822&lpid=85&bid=1526",
@@ -134,6 +156,7 @@
     "bonus": "100% bonuksen jopa €50 asti",
     "freeSpins": "",
     "license": "MGA",
+    "payments": [],
     "rating": 4.3,
     "go": "247bet",
     "affiliateUrl": "https://media1.casimbaaff.com/redirect.aspx?pid=54812&lpid=301&bid=1728",
@@ -150,6 +173,9 @@
     "bonus": "100% Cashback",
     "freeSpins": "200 käteiskierrosta",
     "license": "Curacao",
+    "payments": [
+      "Brite"
+    ],
     "rating": 4.2,
     "go": "kaahaus",
     "affiliateUrl": "https://go.fruitypartners.com/visit/?bta=35381&brand=kaahaus&utm_campaign=FIKA",
@@ -166,6 +192,9 @@
     "bonus": "100% bonus 500€ asti + 50 IK",
     "freeSpins": "50 käteiskierrosta",
     "license": "Curacao",
+    "payments": [
+      "Zimpler"
+    ],
     "rating": 4.1,
     "go": "jackburst",
     "affiliateUrl": "https://node1.spincdnjb.com/_GpV01n98OwXUOsjNOfgKeWNd7ZgqdRLk/1/",
@@ -182,6 +211,9 @@
     "bonus": "100% Bonus Jopa 500 € +  200 Ilmaiskierrosta",
     "freeSpins": "200 Ilmaiskierrosta",
     "license": "Isle of Man",
+    "payments": [
+      "Trustly"
+    ],
     "rating": 4.1,
     "go": "ursa",
     "affiliateUrl": "https://media1.casimbaaff.com/redirect.aspx?pid=54825&bid=1621&lpid=215",
@@ -198,6 +230,9 @@
     "bonus": "Jopa 15 % Palautuksen",
     "freeSpins": "",
     "license": "Curaçao",
+    "payments": [
+      "Brite"
+    ],
     "rating": 4,
     "go": "hurmio",
     "affiliateUrl": "https://record.njordaffiliates.com/_9E0BOAU0a4TZnhMrthbTn2Nd7ZgqdRLk/1/",
@@ -214,6 +249,9 @@
     "bonus": "Jopa 15 % Palautuksen",
     "freeSpins": "",
     "license": "Curacao",
+    "payments": [
+      "Brite"
+    ],
     "rating": 4,
     "go": "rullat",
     "affiliateUrl": "https://record.njordaffiliates.com/_9E0BOAU0a4Q1X8vVweHoG2Nd7ZgqdRLk/3/",
@@ -230,6 +268,7 @@
     "bonus": "Jopa 15 % Palautuksen",
     "freeSpins": "Jopa 15 % Palautuksen",
     "license": "Curacao",
+    "payments": [],
     "rating": 3.8,
     "go": "jellona",
     "affiliateUrl": "https://record.njordaffiliates.com/_9E0BOAU0a4RMzvGV4MrLVGNd7ZgqdRLk/2/",
@@ -246,6 +285,10 @@
     "bonus": "100 Käteiskierrosta heti + 10% Cashback.",
     "freeSpins": "",
     "license": "Curacao",
+    "payments": [
+      "Trustly",
+      "Brite"
+    ],
     "rating": 3.8,
     "go": "spiidi",
     "affiliateUrl": "https://go.fruitypartners.com/visit/?bta=35381&brand=spiidi&utm_campaign=SPIIDIFI",
@@ -262,6 +305,7 @@
     "bonus": "200 Ilmaiskierrosta + Jopa 20% Cashback",
     "freeSpins": "200 Ilmaiskierrosta",
     "license": "Curacao",
+    "payments": [],
     "rating": 3.8,
     "go": "spinnair",
     "affiliateUrl": "https://go.fruitypartners.com/visit/?bta=35381&brand=spinnair&utm_campaign=FIAIR",
@@ -278,6 +322,9 @@
     "bonus": "10% käteispalautus",
     "freeSpins": "300 Ilmaiskierrosta",
     "license": "Curacao",
+    "payments": [
+      "Brite"
+    ],
     "rating": 3.8,
     "go": "spinnaus",
     "affiliateUrl": "https://go.fruitypartners.com/visit/?bta=35381&brand=spinnaus&utm_campaign=FISPI",
@@ -294,6 +341,7 @@
     "bonus": "Jopa 15 % Palautuksen + Jopa 1000 Spinniä",
     "freeSpins": "Jopa 15 % Palautuksen",
     "license": "Curaçao",
+    "payments": [],
     "rating": 3.8,
     "go": "tikkari",
     "affiliateUrl": "https://record.njordaffiliates.com/_9E0BOAU0a4Sk07jEtR6iDWNd7ZgqdRLk/5/",
@@ -310,6 +358,10 @@
     "bonus": "200 Ilmaiskierrosta",
     "freeSpins": "20 Ilmaiskierrosta",
     "license": "Curacao",
+    "payments": [
+      "Trustly",
+      "Brite"
+    ],
     "rating": 3.7,
     "go": "titaani",
     "affiliateUrl": "https://go.fruitypartners.com/visit/?bta=35381&brand=titaani&utm_campaign=FITIT",
@@ -326,6 +378,9 @@
     "bonus": "Jopa 15 % Palautuksen",
     "freeSpins": "Jopa 15 % Palautuksen",
     "license": "Anjouanin",
+    "payments": [
+      "Zimpler"
+    ],
     "rating": 3.6,
     "go": "pelifantti",
     "affiliateUrl": "https://record.njordaffiliates.com/_9E0BOAU0a4TwFyzdGofsLGNd7ZgqdRLk/12731/",
@@ -342,6 +397,7 @@
     "bonus": "100% Bonus Jopa 500 €",
     "freeSpins": "100% Bonus Jopa 500 €",
     "license": "Curacao",
+    "payments": [],
     "rating": 3.6,
     "go": "taika-spinni",
     "affiliateUrl": "https://Media1.casimbacuraff.com/redirect.aspx?pid=55101&lpid=331&bid=1759",

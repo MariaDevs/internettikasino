@@ -59,6 +59,7 @@ export default async function ReviewPage({ params }: Props) {
     ['Tervetuliaisbonus', casino.bonus || '—'],
     ...(casino.freeSpins ? ([['Ilmaiskierrokset', casino.freeSpins]] as [string, string][]) : []),
     ['Lisenssi', licenseLabel(casino.license)],
+    ...(casino.payments.length ? ([['Maksutavat', casino.payments.join(', ')]] as [string, string][]) : []),
     [
       'Verovapaat voitot',
       taxFree ? (

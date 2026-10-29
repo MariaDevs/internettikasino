@@ -607,5 +607,145 @@
     "published": "2026-04-07",
     "modified": "2026-10-29",
     "casinoLists": []
+  },
+  {
+    "slug": "mga-kasinot",
+    "h1": "MGA-kasinot 2026 – verovapaat Maltan lisenssin kasinot",
+    "seoTitle": "MGA-kasinot 2026 – parhaat MGA casino -sivustot (verovapaa)",
+    "description": "MGA-kasinot 2026: Malta Gaming Authorityn lisenssillä toimivat nettikasinot, joiden voitot ovat Suomessa verovapaita. Lista, lisenssin tarkistus ja FAQ.",
+    "published": "2026-10-29",
+    "modified": "2026-10-29",
+    "casinoLists": [
+      [
+        {
+          "slug": "lumo-casino",
+          "headline": "100% Bonus Jopa 300 € +50 Käteiskierrosta"
+        },
+        {
+          "slug": "igni-casino",
+          "headline": "100% Tervetulobonus 500€ asti + 100 ilmaiskierrosta"
+        },
+        {
+          "slug": "munkki-kasino",
+          "headline": "100% bonuksen jopa €600 asti"
+        },
+        {
+          "slug": "vauthi-kasino",
+          "headline": "Jopa 1000 € käteispottimme"
+        },
+        {
+          "slug": "247bet",
+          "headline": "100% bonuksen jopa €50 asti"
+        }
+      ]
+    ]
+  },
+  {
+    "slug": "trustly-kasinot",
+    "h1": "Trustly-kasinot 2026 – talletus ja kotiutus pankkitunnuksilla",
+    "seoTitle": "Trustly-kasinot 2026 – parhaat Trustly casino -sivustot",
+    "description": "Trustly-kasinot 2026: talleta ja kotiuta suoraan pankkitililtä ilman rekisteröitymistä. Vertailimme kotiutusajat, lisenssit ja verovapauden.",
+    "published": "2026-10-29",
+    "modified": "2026-10-29",
+    "casinoLists": [
+      [
+        {
+          "slug": "lumo-casino",
+          "headline": "100% Bonus Jopa 300 € +50 Käteiskierrosta"
+        },
+        {
+          "slug": "igni-casino",
+          "headline": "100% Tervetulobonus 500€ asti + 100 ilmaiskierrosta"
+        },
+        {
+          "slug": "onerush",
+          "headline": "Yli 2000 peliä huippustudioilta"
+        },
+        {
+          "slug": "munkki-kasino",
+          "headline": "100% bonuksen jopa €600 asti"
+        },
+        {
+          "slug": "ursa-casino",
+          "headline": "100% Bonus Jopa 500 € +  200 Ilmaiskierrosta"
+        },
+        {
+          "slug": "spiidi-kasino",
+          "headline": "100 Käteiskierrosta heti + 10% Cashback."
+        },
+        {
+          "slug": "tikaani-casino",
+          "headline": "200 Ilmaiskierrosta"
+        }
+      ]
+    ]
+  },
+  {
+    "slug": "zimpler-kasinot",
+    "h1": "Zimpler-kasinot 2026 – nopeat kotiutukset ja verovapaat voitot",
+    "seoTitle": "Zimpler-kasinot 2026 – parhaat Zimpler casino -sivustot",
+    "description": "Zimpler-kasinot 2026: pikakasinot, joilla kotiutus tulee minuuteissa. Kärjessä virolaiset EMTA-kasinot, joiden voitot ovat Suomessa verovapaita.",
+    "published": "2026-10-29",
+    "modified": "2026-10-29",
+    "casinoLists": [
+      [
+        {
+          "slug": "casinofriday",
+          "headline": "100 ilmaiskierrosta"
+        },
+        {
+          "slug": "pelipeto",
+          "headline": "Talleta 20–49 € ja saat 50 ilmaiskierrosta, arvo 0,10 €/kpl"
+        },
+        {
+          "slug": "shotz-kasino",
+          "headline": "Talleta 20–49 € ja saat 50 ilmaiskierrosta"
+        },
+        {
+          "slug": "jackburst",
+          "headline": "100% bonus 500€ asti + 50 IK"
+        },
+        {
+          "slug": "pelifantti-kasino",
+          "headline": "Jopa 15 % Palautuksen"
+        }
+      ]
+    ]
+  },
+  {
+    "slug": "brite-kasinot",
+    "h1": "Brite-kasinot 2026 – välittömät kotiutukset pankkitililtä",
+    "seoTitle": "Brite-kasinot 2026 – parhaat Brite casino -sivustot",
+    "description": "Brite-kasinot 2026: pikasiirtoihin perustuvat kasinot, joilla kotiutus voi olla välitön. Vertailimme kotiutusajat, bonukset ja verotuksen.",
+    "published": "2026-10-29",
+    "modified": "2026-10-29",
+    "casinoLists": [
+      [
+        {
+          "slug": "kaahaus",
+          "headline": "100% Cashback"
+        },
+        {
+          "slug": "hurmio-casino-2",
+          "headline": "Jopa 15 % Palautuksen"
+        },
+        {
+          "slug": "rullat-casino",
+          "headline": "Jopa 15 % Palautuksen"
+        },
+        {
+          "slug": "spiidi-kasino",
+          "headline": "100 Käteiskierrosta heti + 10% Cashback."
+        },
+        {
+          "slug": "spinnaus",
+          "headline": "10% käteispalautus"
+        },
+        {
+          "slug": "tikaani-casino",
+          "headline": "200 Ilmaiskierrosta"
+        }
+      ]
+    ]
   }
 ]

@@ -8,6 +8,10 @@ const GUIDES = [
   { label: 'Pikakasinot', href: '/pikakasinot/' },
   { label: 'Livekasinot', href: '/livekasinot/' },
   { label: 'Kasinopelit', href: '/kasinopelit/' },
+  { label: 'MGA-kasinot', href: '/mga-kasinot/' },
+  { label: 'Trustly-kasinot', href: '/trustly-kasinot/' },
+  { label: 'Zimpler-kasinot', href: '/zimpler-kasinot/' },
+  { label: 'Brite-kasinot', href: '/brite-kasinot/' },
 ];
 
 export default function Footer() {

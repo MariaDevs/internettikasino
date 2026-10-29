@@ -208,6 +208,9 @@ Paras tapa on katsoa, miten hyvin kasino vastaa siihen mitä itse arvostat. Jos 
 
 -   [Parhaat pikakasinot 2026 — Pay N Play -kasinot](/pikakasinot/)
 -   [Uudet nettikasinot 2026](/uudet-nettikasinot/)
+-   [Verovapaat kasinot 2026](/verovapaat-kasinot/)
+-   [MGA-kasinot 2026](/mga-kasinot/)
+-   [Trustly-kasinot](/trustly-kasinot/), [Zimpler-kasinot](/zimpler-kasinot/) ja [Brite-kasinot](/brite-kasinot/)
 -   [Ilmaiskierrokset ja kierrätysvapaat bonukset](/ilmaiskierrokset/)
 -   [Suomen rahapelilaki 2027 — mitä muuttuu?](/suomen-rahapelilaki-2027/)
 
