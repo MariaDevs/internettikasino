@@ -30,7 +30,7 @@ const BONUS = {
   'igni-casino': 0.3, // 100 % up to 500 € + 100 FS
   jackburst: 0.3, // 100 % up to 500 € + 50 FS, 30-day wagering window
   'jellona-kasino': 0.4, // up to 15 % cashback
-  kaahaus: 0.4, // 100 % cashback
+  kaahaus: 0.4, // 200 wager-free cash spins + cashback
   'lumo-casino': 0.4, // 100 % up to 300 € + 50 wager-free cash spins
   'munkki-kasino': 0.2, // 100 % up to 600 €
   onerush: 0, // no welcome bonus
@@ -39,7 +39,7 @@ const BONUS = {
   'shotz-kasino': 0.3, // 50 wager-free FS for a 20–49 € deposit
   'spiidi-kasino': 0.4, // 100 cash spins + 10 % cashback
   'spinnair-kasino': 0.4, // 200 FS + up to 20 % cashback
-  spinnaus: 0.2, // 10 % cashback with 10x wagering
+  spinnaus: 0.4, // 300 wager-free FS + 10 % daily cashback
   'taika-spinni': 0.2, // 100 % up to 500 €
   'tikkari-kasino': 0.4, // up to 15 % cashback + up to 1000 spins
   'ursa-casino': 0.3, // 100 % up to 500 € + 200 FS

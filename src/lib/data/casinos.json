@@ -33,7 +33,7 @@
     "affiliateUrl": "https://go.funnz.partners/visit/?bta=38445&nci=5832&utm_campaign=FIPE",
     "published": "2026-04-01",
     "modified": "2026-10-29",
-    "seoTitle": "Pelipeto Arvostelu 2026 — Kierrätysvapaa Bonus | Viro",
+    "seoTitle": "Pelipeto Casino arvostelu 2026 – kierrätysvapaat ilmaiskierrokset",
     "description": "Pelipeto: kierrätysvapaa tervetuliaisbonus, Zimpler Pay N Play ja Viron EMTA-lisenssi. Verovapaat voitot suomalaisille. Lue rehellinen arvostelu.",
     "blurb": ""
   },
@@ -170,7 +170,7 @@
     "slug": "kaahaus",
     "name": "Kaahaus Kasino",
     "logo": "/images/uploads/2026/04/kaahaus.png",
-    "bonus": "100% Cashback",
+    "bonus": "200 kierrätysvapaata käteiskierrosta",
     "freeSpins": "200 käteiskierrosta",
     "license": "Curacao",
     "payments": [
@@ -181,7 +181,7 @@
     "affiliateUrl": "https://go.fruitypartners.com/visit/?bta=35381&brand=kaahaus&utm_campaign=FIKA",
     "published": "2026-04-01",
     "modified": "2026-10-29",
-    "seoTitle": "Kaahaus Kasino Arvostelu 2026 — 200 Käteiskierrosta + Cashback",
+    "seoTitle": "Kaahaus Kasino arvostelu 2026 – 200 käteiskierrosta + cashback",
     "description": "Kaahaus Kasino: 200 käteiskierrosta + päivittäinen cashback. Brite Pay N Play, nopeat kotiutukset, laaja pelivalikoima. Lue rehellinen arvostelu.",
     "blurb": ""
   },
@@ -262,6 +262,25 @@
     "blurb": ""
   },
   {
+    "slug": "spinnaus",
+    "name": "Spinnaus Kasino",
+    "logo": "/images/uploads/2017/10/spinnaus.png",
+    "bonus": "300 kierrätysvapaata ilmaiskierrosta + 10 % päivittäinen cashback",
+    "freeSpins": "300 Ilmaiskierrosta",
+    "license": "Curacao",
+    "payments": [
+      "Brite"
+    ],
+    "rating": 4,
+    "go": "spinnaus",
+    "affiliateUrl": "https://go.fruitypartners.com/visit/?bta=35381&brand=spinnaus&utm_campaign=FISPI",
+    "published": "2017-10-04",
+    "modified": "2026-10-29",
+    "seoTitle": "Spinnaus Kasino (Spinnaus Casino) arvostelu 2026 – 300 kierrosta",
+    "description": "Spinnaus Kasino: jopa 300 ilmaiskierrosta ilman kierrätystä. Nopea Pay N Play -aloitus, laaja pelivalikoima johtavilta studioilta. Lue arvostelu.",
+    "blurb": ""
+  },
+  {
     "slug": "jellona-kasino",
     "name": "Jellona Kasino",
     "logo": "/images/uploads/2026/06/jellona-kasino-logo.png",
@@ -314,25 +333,6 @@
     "seoTitle": "Spinnair Kasino Arvostelu 2026 — 200 Ilmaiskierrosta",
     "description": "Spinnair Kasino: 200 ilmaiskierrosta tervetuliaisena. Lennokas pikakasino nopealla Pay N Play -aloituksella ja laajalla pelivalikoimalla. Lue arvostelu.",
     "blurb": "Lue arvostelu"
-  },
-  {
-    "slug": "spinnaus",
-    "name": "Spinnaus Kasino",
-    "logo": "/images/uploads/2017/10/spinnaus.png",
-    "bonus": "10% käteispalautus",
-    "freeSpins": "300 Ilmaiskierrosta",
-    "license": "Curacao",
-    "payments": [
-      "Brite"
-    ],
-    "rating": 3.8,
-    "go": "spinnaus",
-    "affiliateUrl": "https://go.fruitypartners.com/visit/?bta=35381&brand=spinnaus&utm_campaign=FISPI",
-    "published": "2017-10-04",
-    "modified": "2026-10-29",
-    "seoTitle": "Spinnaus Kasino Arvostelu 2026 — 300 Ilmaiskierrosta Ilman Kierrätystä",
-    "description": "Spinnaus Kasino: jopa 300 ilmaiskierrosta ilman kierrätystä. Nopea Pay N Play -aloitus, laaja pelivalikoima johtavilta studioilta. Lue arvostelu.",
-    "blurb": ""
   },
   {
     "slug": "tikkari-kasino",

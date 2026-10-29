@@ -1,4 +1,4 @@
-Verovapaat kasinot ovat nettikasinoita, joiden voitot ovat suomalaiselle pelaajalle verovapaita. Et ilmoita voittoja veroilmoituksella etkä maksa niistä veroa – voitettu summa on kokonaan sinun. Verovapauden ratkaisee yksi asia: kasinon pelit on järjestetty Euroopan talousalueella (ETA) ja kasinolla on ETA-valtion myöntämä lisenssi.
+Verovapaat kasinot ovat nettikasinoita, joiden voitot ovat suomalaiselle pelaajalle verovapaita. Et ilmoita voittoja veroilmoituksella etkä maksa niistä veroa – voitettu summa on kokonaan sinun. Verovapaa casino ja verovapaa kasino tarkoittavat samaa. Verovapauden ratkaisee yksi asia: kasinon pelit on järjestetty Euroopan talousalueella (ETA) ja kasinolla on ETA-valtion myöntämä lisenssi.
 
 Tälle sivulle on koottu verovapaat kasinot 2026. Jokaisen kasinon lisenssi on tarkistettu, ja lista on järjestetty [julkaistun pisteytyksemme](/internettikasino-arvostelu/) mukaan. Sivulla kerromme myös, miksi osa suosituista lisensseistä – kuten Curaçao ja Isle of Man – ei tee voitoista verovapaita, vaikka moni muu sivusto väittää toisin.
 

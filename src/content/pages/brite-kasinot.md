@@ -42,7 +42,8 @@ Jos verovapaus on sinulle tärkeää, valitse ETA-lisensoitu kasino. Nopeimmat v
 
 Brite-kasinot kilpailevat usein kierrätysvapailla eduilla, erityisesti cashbackilla:
 
--   **Kaahaus** – 100 % cashback -tyyppinen tervetuliaisetu ja jatkuva palautus
+-   **Kaahaus** – 200 kierrätysvapaata käteiskierrosta ja jatkuva cashback
+-   **Spinnaus** – 300 kierrätysvapaata ilmaiskierrosta ja 10 % päivittäinen cashback
 -   **Rullat ja Hurmio** – jopa 15 % palautus tappioista
 -   **Spiidi** – 100 käteiskierrosta ja 10 % cashback
 

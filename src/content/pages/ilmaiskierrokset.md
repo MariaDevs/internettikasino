@@ -38,7 +38,7 @@ Ilmaiskierrokset ilman talletusta ovat yksi pelaajalle parhaista bonusmuodoista,
 
 Tämän vuoksi kyseinen bonus kiinnostaa erityisesti uusia pelaajia. Se antaa mahdollisuuden testata kasinon käyttöliittymää, pelivalikoimaa ja yleistä toimivuutta ennen kuin omaa rahaa siirtyy pelitilille.
 
-Samaan aikaan ehdot ovat näissä tarjouksissa usein tavallista tiukemmat. Voittokatto, korkeampi kierrätys tai muut rajoitukset ovat yleisiä, joten tarjous toimii parhaiten testiboonuksena eikä niinkään pitkäaikaisen pelaamisen perustana.
+Lue erillinen oppaamme: [ilmaiskierrokset ilman talletusta](/ilmaiskierrokset-ilman-talletusta/) – mistä niitä saa ja miksi ne ovat harvinaisia pikakasinoilla. Samaan aikaan ehdot ovat näissä tarjouksissa usein tavallista tiukemmat. Voittokatto, korkeampi kierrätys tai muut rajoitukset ovat yleisiä, joten tarjous toimii parhaiten testiboonuksena eikä niinkään pitkäaikaisen pelaamisen perustana.
 
 ## Kierrätysvapaat ilmaiskierrokset
 
