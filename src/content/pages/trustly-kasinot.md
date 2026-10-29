@@ -46,7 +46,7 @@ Trustlyn turvallisuus ei kuitenkaan kerro kasinon luotettavuudesta. Tarkista ain
 Maksutapa ei vaikuta verotukseen. Ratkaisevaa on kasinon lisenssi:
 
 -   **Verovapaat:** MGA-lisenssillä (Lumo, Igni, Munkki) ja Viron EMTA-lisenssillä (OneRush) toimivien Trustly-kasinoiden voitot.
--   **Verotettavat:** Isle of Man -lisenssillä (Ursa) ja Curaçao-lisenssillä (esimerkiksi Spiidi ja Tikaani) toimivien kasinoiden voitot.
+-   **Verotettavat:** Isle of Man -lisenssillä (Ursa) ja Curaçao-lisenssillä (esimerkiksi Spiidi ja Titaani) toimivien kasinoiden voitot.
 
 Lue lisää: [verovapaat kasinot](/verovapaat-kasinot/) ja [MGA-kasinot](/mga-kasinot/).
 

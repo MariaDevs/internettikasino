@@ -23,7 +23,7 @@ Saat tietyn määrän kierroksia tiettyyn peliin. Tärkeä ero:
 
 ### No Deposit -bonus
 
-Saat bonuksen ilman talletusta — pelkällä rekisteröitymisellä tai tunnistautumisella. Harvinainen mutta erittäin arvokas. Tikaani Casino tarjoaa 20 kierrätysvapaata kierrosta ilman talletusta.
+Saat bonuksen ilman talletusta — pelkällä rekisteröitymisellä tai tunnistautumisella. Harvinainen mutta erittäin arvokas. Titaani Casino tarjoaa 20 kierrätysvapaata kierrosta ilman talletusta.
 
 ### Cashback-bonus
 
@@ -35,10 +35,10 @@ Vanhoille pelaajille tarjottava talletusbonus. Yleensä pienempi kuin tervetulia
 
 ## Parhaat kasinobonukset 2026
 
-### 1\. Tikaani Casino — 20 kierrosta ILMAN talletusta + 200 kierrosta
+### 1\. Titaani Casino — 20 kierrosta ILMAN talletusta + 200 kierrosta
 
 Markkinoiden ainoa yhdistelmä: 20 kierrätysvapaata kierrosta ilman talletusta + 200 käteiskierrosta ensitalletuksella. Paras aloitustarjous 2026.  
-[**Lunasta bonus Tikaani Casinolla →**](/go/titaani/) | [Lue arvostelu](/review/tikaani-casino/)
+[**Lunasta bonus Titaani Casinolla →**](/go/titaani/) | [Lue arvostelu](/review/titaani-casino/)
 
 ### 2\. Spiidi Kasino — 200 käteiskierrosta + 10 % päivittäinen cashback
 
@@ -83,7 +83,7 @@ Lue lisää: [Kierrätysvapaat bonukset — täydellinen opas](/ilmaiskierrokset
 ## Usein kysytyt kysymykset
 
 **Mikä on paras kasinobonus 2026?**  
-Kierrätysvapaat bonukset ovat parhaita — niiden todellinen arvo on korkein. Tikaanin 20 kierrosta ilman talletusta on paras no deposit -tarjous (lue lisää: [ilmaiskierrokset ilman talletusta](/ilmaiskierrokset-ilman-talletusta/)), Spiidi tarjoaa parhaan kokonaispaketin säännölliselle pelaajalle.
+Kierrätysvapaat bonukset ovat parhaita — niiden todellinen arvo on korkein. Titaanin 20 kierrosta ilman talletusta on paras no deposit -tarjous (lue lisää: [ilmaiskierrokset ilman talletusta](/ilmaiskierrokset-ilman-talletusta/)), Spiidi tarjoaa parhaan kokonaispaketin säännölliselle pelaajalle.
 
 **Mitä tarkoittaa 100 % kasinobonus?**  
 Kasino kaksinkertaistaa talletuksesi bonusrahaksi. Jos tallettaa 100 €, saat 100 € bonusrahaa pelitilillesi — yhteensä 200 € pelattavaksi.

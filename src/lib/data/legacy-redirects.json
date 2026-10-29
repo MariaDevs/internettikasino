@@ -62,5 +62,9 @@
   {
     "source": "/review/vauthi-kasino",
     "destination": "/review/vauhti-kasino/"
+  },
+  {
+    "source": "/review/tikaani-casino",
+    "destination": "/review/titaani-casino/"
   }
 ]

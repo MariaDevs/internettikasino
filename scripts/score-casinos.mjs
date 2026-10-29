@@ -45,7 +45,7 @@ const BONUS = {
   'ursa-casino': 0.3, // 100 % up to 500 € + 200 FS
   'vauhti-kasino': 0.3, // up to 1000 € cash pot
   'pelifantti-kasino': 0.4, // up to 15 % cashback
-  'tikaani-casino': 0.3, // 200 FS
+  'titaani-casino': 0.3, // 200 FS
 };
 
 function licencePoints(raw) {

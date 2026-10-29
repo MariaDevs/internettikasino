@@ -4,7 +4,7 @@ Tässä oppaassa kerromme, mistä ilmaiskierroksia ilman talletusta saa, miksi n
 
 ## Mistä saa ilmaiskierroksia ilman talletusta?
 
-Testaamistamme kasinoista ilmaiskierroksia ilman talletusta tarjoaa tällä hetkellä **[Tikaani Casino](/review/tikaani-casino/)**: 20 ilmaiskierrosta rekisteröitymisen yhteydessä ja lisäksi 200 ilmaiskierrosta ensitalletuksen yhteydessä. Huomaa, että Tikaani toimii Curaçao-lisenssillä, joten voitot ovat Suomessa verotettavia.
+Testaamistamme kasinoista ilmaiskierroksia ilman talletusta tarjoaa tällä hetkellä **[Titaani Casino](/review/titaani-casino/)**: 20 ilmaiskierrosta rekisteröitymisen yhteydessä ja lisäksi 200 ilmaiskierrosta ensitalletuksen yhteydessä. Huomaa, että Titaani toimii Curaçao-lisenssillä, joten voitot ovat Suomessa verotettavia.
 
 Tarjoukset muuttuvat usein, joten tarkista voimassa olevat ehdot aina kasinon sivuilta ennen tilin avaamista. Kaikki ajankohtaiset ilmaiskierrostarjoukset löydät [ilmaiskierrokset-sivulta](/ilmaiskierrokset/).
 
@@ -54,7 +54,7 @@ Ilmaiskierrokset ovat markkinointia, jonka tarkoitus on saada sinut tallettamaan
 
 ### Mistä saa ilmaiskierroksia ilman talletusta?
 
-Testaamistamme kasinoista Tikaani Casino tarjoaa 20 ilmaiskierrosta rekisteröitymisen yhteydessä ilman talletusta. Tarjoukset muuttuvat usein, joten tarkista ajantasaiset ehdot kasinon sivuilta.
+Testaamistamme kasinoista Titaani Casino tarjoaa 20 ilmaiskierrosta rekisteröitymisen yhteydessä ilman talletusta. Tarjoukset muuttuvat usein, joten tarkista ajantasaiset ehdot kasinon sivuilta.
 
 ### Voiko ilmaiskierroksilla voittaa oikeaa rahaa?
 
