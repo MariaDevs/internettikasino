@@ -25,7 +25,7 @@ export function organizationSchema() {
     '@id': ORG_ID,
     name: SITE_NAME,
     url: SITE_URL,
-    logo: abs('/images/favicon-192.png'),
+    logo: abs('/images/logo-icon-512.png'),
     description: 'Riippumaton suomenkielinen nettikasinovertailu: kasinoarvostelut, bonukset ja pelaajan oppaat.',
   };
 }
@@ -118,7 +118,7 @@ export function articleSchema(post: Post) {
     datePublished: post.published,
     dateModified: post.modified,
     mainEntityOfPage: abs(path),
-    image: post.image ? abs(post.image) : abs('/images/favicon-192.png'),
+    image: post.image ? abs(post.image) : abs('/images/logo-icon-512.png'),
     inLanguage: SITE_LANG,
     author: { '@type': 'Person', '@id': PERSON_ID, name: AUTHOR.name, url: AUTHOR.url },
     publisher: { '@id': ORG_ID },

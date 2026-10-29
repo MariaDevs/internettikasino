@@ -22,7 +22,6 @@ export const metadata: Metadata = {
   applicationName: SITE_NAME,
   openGraph: { type: 'website', locale: SITE_LOCALE, siteName: SITE_NAME },
   twitter: { card: 'summary_large_image' },
-  icons: { icon: '/images/favicon-192.png', apple: '/images/favicon-192.png' },
   robots: {
     index: true,
     follow: true,

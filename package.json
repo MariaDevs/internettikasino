@@ -9,7 +9,8 @@
     "start": "next start",
     "lint": "eslint",
     "redirects": "node scripts/generate-redirects.mjs",
-    "score": "node scripts/score-casinos.mjs"
+    "score": "node scripts/score-casinos.mjs",
+    "icons": "node scripts/build-icons.mjs"
   },
   "dependencies": {
     "clsx": "^2.1.1",

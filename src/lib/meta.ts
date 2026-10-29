@@ -10,7 +10,7 @@ export function buildMetadata(p: {
   published?: string | null;
   modified?: string | null;
 }): Metadata {
-  const image = p.image ? abs(p.image) : abs('/images/favicon-192.png');
+  const image = p.image ? abs(p.image) : abs('/images/logo-icon-512.png');
   return {
     title: p.title,
     description: p.description,
