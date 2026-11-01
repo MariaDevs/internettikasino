@@ -42,7 +42,7 @@ Tykkään tästä yhdistelmästä enemmän kuin monen kasinon perusmallista, jos
 -   Kaikki pelit osallistuvat cashbackiin, paitsi pöytäpelit.
 -   Nettotappiot lasketaan kaavalla: panokset – voitot – myönnetty bonus.
 -   Cashback vanhenee 24 tunnin kuluessa.
--   Pienin päivittäinen cashback on 5 €. Tämä tarkoittaa, että saat vähintään 50 €:n nettotappioista palautusta.
+-   Pienin päivittäinen cashback on 5 €. Tämä tarkoittaa, että saat vähintään 50 € nettotappioista palautusta.
 
 ### Kierrosmittari tuo lisää arvoa aktiiviselle pelaajalle
 
