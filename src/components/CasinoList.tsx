@@ -1,13 +1,9 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import clsx from 'clsx';
 import { ShieldCheck } from 'lucide-react';
 import { isTaxFree, licenseLabel, rankEntries, type CasinoListEntry } from '@/lib/data';
 import StarRating from './StarRating';
 import PlayButton from './PlayButton';
-
-/** How many leading rows get the larger, highlighted treatment. */
-const TOP = 3;
 
 /** Ranked casino comparison list used on hub pages (replaces the WP "table-s1" widget). */
 export default function CasinoList({ entries }: { entries: CasinoListEntry[] }) {
@@ -17,39 +13,16 @@ export default function CasinoList({ entries }: { entries: CasinoListEntry[] }) 
   return (
     <div className="my-8">
       <ol className="space-y-3" aria-label="Kasinovertailu">
-        {rows.map(({ entry, casino }, i) => {
-          // The top three get a larger logo so the leaders stand out.
-          const featured = i < TOP;
-          return (
+        {rows.map(({ entry, casino }, i) => (
           <li
             key={casino.slug}
-            className={clsx(
-              'grid grid-cols-[auto_1fr] items-center gap-x-4 gap-y-3 rounded-xl border bg-white p-4 shadow-sm sm:p-5',
-              featured ? 'border-accent-400 sm:grid-cols-[2rem_12rem_1fr_auto]' : 'border-slate-200 sm:grid-cols-[2rem_9rem_1fr_auto]',
-            )}
+            className="grid grid-cols-[auto_1fr] items-center gap-x-4 gap-y-3 rounded-xl border border-slate-200 bg-white p-4 shadow-sm sm:grid-cols-[2rem_9rem_1fr_auto] sm:p-5"
           >
-            <span
-              className={clsx(
-                'flex h-8 w-8 items-center justify-center rounded-full text-sm font-bold',
-                featured ? 'bg-accent-400 text-brand-950' : 'bg-brand-900 text-white',
-              )}
-            >
+            <span className="flex h-8 w-8 items-center justify-center rounded-full bg-brand-900 text-sm font-bold text-white">
               {i + 1}
             </span>
-            <Link
-              href={`/review/${casino.slug}/`}
-              className={clsx(
-                'flex items-center justify-center rounded-lg border border-slate-200 bg-white',
-                featured ? 'h-24 p-2 sm:h-28' : 'h-16 p-2 sm:h-20',
-              )}
-            >
-              <Image
-                src={casino.logo}
-                alt={`${casino.name} logo`}
-                width={featured ? 240 : 160}
-                height={featured ? 96 : 64}
-                className="h-full w-full object-contain"
-              />
+            <Link href={`/review/${casino.slug}/`} className="flex h-16 items-center justify-center rounded-lg border border-slate-200 bg-white px-3 sm:h-20">
+              <Image src={casino.logo} alt={`${casino.name} logo`} width={160} height={64} className="h-auto max-h-12 w-auto object-contain sm:max-h-14" />
             </Link>
             <div className="col-span-2 min-w-0 sm:col-span-1">
               <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
@@ -78,8 +51,7 @@ export default function CasinoList({ entries }: { entries: CasinoListEntry[] }) 
               </Link>
             </div>
           </li>
-          );
-        })}
+        ))}
       </ol>
       <p className="mt-2 text-xs text-slate-500">18+ | Mainos. Tarkista bonusehdot aina kasinon sivuilta. Pelaa vastuullisesti.</p>
     </div>
