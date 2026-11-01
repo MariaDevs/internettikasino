@@ -12,7 +12,16 @@ const VISIBLE = 10;
 const MAX = 20;
 
 /** Ranked casino comparison list used on hub pages (replaces the WP "table-s1" widget). */
-export default function CasinoList({ entries, showAll = false }: { entries: CasinoListEntry[]; showAll?: boolean }) {
+export default function CasinoList({
+  entries,
+  showAll = false,
+  startRank = 1,
+}: {
+  entries: CasinoListEntry[];
+  showAll?: boolean;
+  /** Rank of the first row, for lists that continue on from casinos shown above them. */
+  startRank?: number;
+}) {
   const ranked = rankEntries(entries);
   const rows = showAll ? ranked : ranked.slice(0, MAX);
   const visible = showAll ? rows.length : VISIBLE;
@@ -31,7 +40,7 @@ export default function CasinoList({ entries, showAll = false }: { entries: Casi
             )}
           >
             <span className="flex h-8 w-8 items-center justify-center rounded-full bg-brand-900 text-sm font-bold text-white">
-              {i + 1}
+              {startRank + i}
             </span>
             <Link href={`/review/${casino.slug}/`} className="flex h-16 items-center justify-center rounded-lg border border-slate-200 bg-white px-3 sm:h-20">
               <Image src={casino.logo} alt={`${casino.name} logo`} width={160} height={64} className="h-auto max-h-12 w-auto object-contain sm:max-h-14" />

@@ -30,6 +30,9 @@ export default function HomePage() {
   // Hero = the three highest-rated casinos, so "#1" always matches the scores.
   const hero = casinos.slice(0, 3);
   const list = rankEntries(home.casinoLists[0] ?? []);
+  // Everything after the hero cards, in rating order, so no casino appears twice.
+  const heroSlugs = new Set(hero.map((c) => c.slug));
+  const rest = list.filter(({ casino }) => !heroSlugs.has(casino.slug)).map(({ entry }) => entry);
 
   return (
     <>
@@ -92,7 +95,8 @@ export default function HomePage() {
           <AuthorBox compact modified={home.modified} />
           <Disclosure />
         </div>
-        <Prose content={content} lists={home.casinoLists} />
+        {/* The list continues from the three hero cards, so it starts at #4 and skips them. */}
+        <Prose content={content} lists={[rest]} listStartRank={hero.length + 1} />
       </div>
 
       <section className="mx-auto max-w-7xl px-4 py-6">
