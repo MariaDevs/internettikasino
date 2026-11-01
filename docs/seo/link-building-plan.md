@@ -95,7 +95,7 @@ suomimagazine.com (DR 67 / 271 traffic), suomiblogi.fi (DR 65 / 249), roolipedia
 
 ## 4. Pitch angles
 
-1. **"Isle of Man -kasinoiden voitot ovat Suomessa verotettavia"** — the strongest earned-link story. Most Finnish casino sites list Isle of Man as tax-free; Verohallinto ties tax exemption to games run in an EEA state, and Isle of Man is not in the EEA. Newsworthy, useful, verifiable. Pitch to: helsinkitimes.fi, financist.fi, laskin.fi, pelituutiset.fi, uutisankka.com, europeangaming.eu. Link: `/verovapaat-kasinot/`.
+1. **"Milloin nettikasinon voitto on verovapaa?"** — a reader-service explainer: winnings from games run in an EEA state are tax-free, others taxable, and Brexit moved Gibraltar, Isle of Man and UK licences to the taxable side. Note: the competitors ranking for "verovapaat kasinot" already state this correctly (checked 2026-11-01), so pitch it as a clear guide, **not** as "other sites get it wrong". Pitch to: helsinkitimes.fi (in English), financist.fi, laskin.fi, pelituutiset.fi, uutisankka.com, europeangaming.eu. Drafts: `docs/seo/pitches/tax-explainer-pitches.md`. Link: `/verovapaat-kasinot/`.
 2. **Rahapelilaki 2027 explainer** — what changes for players when the licence market opens. Timely all through 2026–27. Pitch to sports and news sites. Link: `/suomen-rahapelilaki-2027/`.
 3. **"Kuinka nopeasti nettikasino maksaa?"** — a small data piece from our withdrawal-time tests across 22 casinos. Pitch to tech and finance sites (mobiili.fi, nopeustesti.fi, financist.fi). Link: `/nopein-kasino/` or `/pikakasinot/`.
 4. **Game rules** — blackjack basic strategy, roulette odds. Pitch to card and game sites as a guest guide. Links: `/blackjack-saannot/`, `/ruletti/`.
@@ -146,7 +146,7 @@ Link from other Traffic Puma sites only where it's genuinely relevant to a Finni
 ## 9. First actions (this month)
 
 1. Join GPWA and add the profile link.
-2. Pitch the Isle of Man tax story to helsinkitimes.fi, financist.fi and pelituutiset.fi.
+2. Send the tax-explainer pitches (docs/seo/pitches/tax-explainer-pitches.md) to helsinkitimes.fi, financist.fi and pelituutiset.fi.
 3. Request sponsored-article prices from seiska.fi, rantapallo.fi, mobiili.fi and keskipohjanmaa.fi.
 4. Offer blackjack and roulette guides to pasianssi.com, unosäännöt.fi and nettipokeri.com.
 5. Set up the link log sheet.
