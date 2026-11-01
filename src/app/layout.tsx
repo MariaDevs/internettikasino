@@ -11,6 +11,10 @@ const inter = Inter({ variable: '--font-inter', subsets: ['latin', 'latin-ext'],
 
 const GA_ID = process.env.NEXT_PUBLIC_GA_ID;
 
+// Ahrefs Web Analytics (cookieless) for the "Internettikasino" Ahrefs project (ID 2406630).
+// The key is public by design — it ships in the page source.
+const AHREFS_ANALYTICS_KEY = process.env.NEXT_PUBLIC_AHREFS_ANALYTICS_KEY ?? '750WefdlO4lONv9Q5JQu1g';
+
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
@@ -48,6 +52,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
             />
           </>
         )}
+        {AHREFS_ANALYTICS_KEY && <script src="https://analytics.ahrefs.com/analytics.js" data-key={AHREFS_ANALYTICS_KEY} async />}
         <JsonLd data={[websiteSchema(), organizationSchema()]} />
       </head>
       <body className="flex min-h-full flex-col bg-slate-50 font-sans text-slate-800">
