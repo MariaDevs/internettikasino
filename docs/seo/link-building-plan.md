@@ -87,7 +87,7 @@ These link most naturally to `/blackjack-saannot/`, `/ruletti/` and `/suomen-rah
 ### Industry & trust
 
 - **gpwa.org** (DR 81): GPWA affiliate association. Membership gives a profile link and a trust seal. Low cost, do it first.
-- **europeangaming.eu** (DR 76): industry news; pitch the Isle of Man tax story or the 2027 law change as a press release.
+- **europeangaming.eu** (DR 76): industry news; pitch the tax explainer or the 2027 law change as a press release.
 
 ### Avoid (seen in competitor profiles)
 
