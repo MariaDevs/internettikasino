@@ -9,44 +9,84 @@
     "casinoLists": [
       [
         {
-          "slug": "pelifantti-kasino",
-          "headline": "Jopa 15 % viikoittainen cashback"
+          "slug": "casinofriday",
+          "headline": "100 kierrätysvapaata ilmaiskierrosta 20 € talletuksella"
         },
         {
-          "slug": "titaani-casino",
-          "headline": "200 ilmaiskierrosta + 20 kierrosta ilman talletusta"
+          "slug": "shotz-kasino",
+          "headline": "100 kierrätysvapaata ilmaiskierrosta 20 € talletuksella"
+        },
+        {
+          "slug": "pelipeto",
+          "headline": "50 kierrätysvapaata ilmaiskierrosta, arvo 0,10–0,50 €/kierros"
         },
         {
           "slug": "lumo-casino",
           "headline": "100 % bonus jopa 300 € + 50 käteiskierrosta"
         },
         {
-          "slug": "ursa-casino",
-          "headline": "100 % bonus jopa 500 € + 200 ilmaiskierrosta"
+          "slug": "igni-casino",
+          "headline": "100 % bonus jopa 500 € + 100 ilmaiskierrosta"
         },
         {
-          "slug": "spiidi-kasino",
-          "headline": "100 käteiskierrosta + 10 % päivittäinen cashback"
+          "slug": "onerush",
+          "headline": "Ei tervetuliaisbonusta – kotiutus noin 10 minuutissa"
         },
         {
           "slug": "munkki-kasino",
           "headline": "100 % bonus jopa 600 €"
         },
         {
-          "slug": "rullat-casino",
-          "headline": "Jopa 15 % kierrätysvapaa cashback"
+          "slug": "vauhti-kasino",
+          "headline": "Jopa 1 000 € käteispotti uusille pelaajille"
         },
         {
-          "slug": "igni-casino",
-          "headline": "100 % bonus jopa 500 € + 100 ilmaiskierrosta"
+          "slug": "247bet",
+          "headline": "100 % bonus jopa 50 €"
+        },
+        {
+          "slug": "kaahaus",
+          "headline": "200 kierrätysvapaata käteiskierrosta"
+        },
+        {
+          "slug": "jackburst",
+          "headline": "100 % bonus jopa 500 € + 150 ilmaiskierrosta"
+        },
+        {
+          "slug": "ursa-casino",
+          "headline": "100 % bonus jopa 500 € + 200 ilmaiskierrosta"
         },
         {
           "slug": "hurmio-casino-2",
           "headline": "Jopa 15 % kierrätysvapaa cashback"
         },
         {
-          "slug": "247bet",
-          "headline": "100 % bonus jopa 50 €"
+          "slug": "rullat-casino",
+          "headline": "Jopa 15 % kierrätysvapaa cashback"
+        },
+        {
+          "slug": "spinnaus",
+          "headline": "300 kierrätysvapaata ilmaiskierrosta + 10 % päivittäinen cashback"
+        },
+        {
+          "slug": "jellona-kasino",
+          "headline": "Jopa 15 % cashback"
+        },
+        {
+          "slug": "spiidi-kasino",
+          "headline": "100 käteiskierrosta + 10 % päivittäinen cashback"
+        },
+        {
+          "slug": "tikkari-kasino",
+          "headline": "Jopa 15 % cashback + jopa 1 000 ilmaiskierrosta"
+        },
+        {
+          "slug": "spinnair-kasino",
+          "headline": "200 ilmaiskierrosta"
+        },
+        {
+          "slug": "taika-spinni",
+          "headline": "100 % bonus jopa 500 € + 200 ilmaiskierrosta"
         }
       ]
     ]

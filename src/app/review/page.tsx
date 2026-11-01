@@ -32,7 +32,7 @@ export default function ReviewIndex() {
         <div className="mt-5">
           <Disclosure />
         </div>
-        <CasinoList entries={entries} />
+        <CasinoList entries={entries} showAll />
       </div>
     </>
   );

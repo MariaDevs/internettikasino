@@ -2,21 +2,33 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { ShieldCheck } from 'lucide-react';
 import { isTaxFree, licenseLabel, rankEntries, type CasinoListEntry } from '@/lib/data';
+import clsx from 'clsx';
 import StarRating from './StarRating';
 import PlayButton from './PlayButton';
+import ExpandableList from './ExpandableList';
+
+/** Rows shown before the "show more" button; the list never goes past MAX. */
+const VISIBLE = 10;
+const MAX = 20;
 
 /** Ranked casino comparison list used on hub pages (replaces the WP "table-s1" widget). */
-export default function CasinoList({ entries }: { entries: CasinoListEntry[] }) {
-  const rows = rankEntries(entries);
+export default function CasinoList({ entries, showAll = false }: { entries: CasinoListEntry[]; showAll?: boolean }) {
+  const ranked = rankEntries(entries);
+  const rows = showAll ? ranked : ranked.slice(0, MAX);
+  const visible = showAll ? rows.length : VISIBLE;
   if (!rows.length) return null;
 
   return (
     <div className="my-8">
-      <ol className="space-y-3" aria-label="Kasinovertailu">
+      <ExpandableList hiddenCount={Math.max(0, rows.length - visible)} label="Kasinovertailu">
         {rows.map(({ entry, casino }, i) => (
           <li
             key={casino.slug}
-            className="grid grid-cols-[auto_1fr] items-center gap-x-4 gap-y-3 rounded-xl border border-slate-200 bg-white p-4 shadow-sm sm:grid-cols-[2rem_9rem_1fr_auto] sm:p-5"
+            className={clsx(
+              'grid grid-cols-[auto_1fr] items-center gap-x-4 gap-y-3 rounded-xl border border-slate-200 bg-white p-4 shadow-sm sm:grid-cols-[2rem_9rem_1fr_auto] sm:p-5',
+              // Extra rows stay in the HTML (crawlable) and appear when the list is expanded.
+              i >= visible && 'group-data-[expanded=false]:hidden',
+            )}
           >
             <span className="flex h-8 w-8 items-center justify-center rounded-full bg-brand-900 text-sm font-bold text-white">
               {i + 1}
@@ -52,7 +64,7 @@ export default function CasinoList({ entries }: { entries: CasinoListEntry[] }) 
             </div>
           </li>
         ))}
-      </ol>
+      </ExpandableList>
       <p className="mt-2 text-xs text-slate-500">18+ | Mainos. Tarkista bonusehdot aina kasinon sivuilta. Pelaa vastuullisesti.</p>
     </div>
   );
