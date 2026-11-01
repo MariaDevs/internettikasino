@@ -62,10 +62,23 @@ body {
 .prose-ik a {
   color: var(--color-brand-700);
   text-decoration: underline;
-  text-underline-offset: 2px;
+  text-decoration-color: color-mix(in srgb, var(--color-brand-700) 35%, transparent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  transition: color 0.2s, text-decoration-color 0.2s, text-underline-offset 0.2s;
 }
 .prose-ik a:hover {
   color: var(--color-brand-900);
+  text-decoration-color: var(--color-accent-400);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+/* Comparison tables: highlight the row under the pointer (header row excluded). */
+.prose-ik tbody tr {
+  transition: background-color 0.15s;
+}
+.prose-ik tbody tr:not(:first-child:has(strong)):hover td {
+  background: #f8fafc;
 }
 .prose-ik a.cta-link {
   color: var(--color-cta-700);

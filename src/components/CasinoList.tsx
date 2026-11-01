@@ -34,15 +34,15 @@ export default function CasinoList({
           <li
             key={casino.slug}
             className={clsx(
-              'grid grid-cols-[auto_1fr] items-center gap-x-4 gap-y-3 rounded-xl border border-slate-200 bg-white p-4 shadow-sm sm:grid-cols-[2rem_9rem_1fr_auto] sm:p-5',
+              'group/row grid grid-cols-[auto_1fr] items-center gap-x-4 gap-y-3 rounded-xl border border-slate-200 bg-white p-4 shadow-sm transition duration-200 hover:border-brand-600/40 hover:shadow-lg motion-safe:hover:-translate-y-0.5 sm:grid-cols-[2rem_9rem_1fr_auto] sm:p-5',
               // Extra rows stay in the HTML (crawlable) and appear when the list is expanded.
               i >= visible && 'group-data-[expanded=false]:hidden',
             )}
           >
-            <span className="flex h-8 w-8 items-center justify-center rounded-full bg-brand-900 text-sm font-bold text-white">
+            <span className="flex h-8 w-8 items-center justify-center rounded-full bg-brand-900 text-sm font-bold text-white transition-colors duration-200 group-hover/row:bg-accent-400 group-hover/row:text-brand-950">
               {startRank + i}
             </span>
-            <Link href={`/review/${casino.slug}/`} className="flex h-16 items-center justify-center rounded-lg border border-slate-200 bg-white px-3 sm:h-20">
+            <Link href={`/review/${casino.slug}/`} className="flex h-16 items-center justify-center rounded-lg border border-slate-200 bg-white px-3 transition-colors duration-200 group-hover/row:border-brand-600/30 sm:h-20">
               <Image src={casino.logo} alt={`${casino.name} logo`} width={160} height={64} className="h-auto max-h-12 w-auto object-contain sm:max-h-14" />
             </Link>
             <div className="col-span-2 min-w-0 sm:col-span-1">
@@ -66,7 +66,7 @@ export default function CasinoList({
               <PlayButton go={casino.go} className="flex-1" />
               <Link
                 href={`/review/${casino.slug}/`}
-                className="flex-1 rounded-lg border border-slate-300 px-4 py-2 text-center text-sm font-medium text-slate-700 hover:border-brand-600 hover:text-brand-700"
+                className="flex-1 rounded-lg border border-slate-300 px-4 py-2 text-center text-sm font-medium text-slate-700 transition-colors duration-200 hover:border-brand-600 hover:bg-brand-50 hover:text-brand-700"
               >
                 Lue arvostelu
               </Link>

@@ -58,7 +58,7 @@ function FooterCol({ title, links }: { title: string; links: { label: string; hr
       <ul className="mt-3 space-y-1.5 text-sm">
         {links.map((l) => (
           <li key={l.href}>
-            <Link href={l.href} className="hover:text-white">{l.label}</Link>
+            <Link href={l.href} className="inline-block transition duration-200 hover:text-white motion-safe:hover:translate-x-0.5">{l.label}</Link>
           </li>
         ))}
       </ul>

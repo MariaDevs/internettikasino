@@ -14,8 +14,8 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 bg-brand-950 text-white shadow-md">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between gap-4 px-4">
-        <Link href="/" className="flex items-center gap-2 text-lg font-extrabold tracking-tight" onClick={() => setOpen(false)}>
-          <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-accent-400 text-brand-950" aria-hidden>
+        <Link href="/" className="group/logo flex items-center gap-2 text-lg font-extrabold tracking-tight" onClick={() => setOpen(false)}>
+          <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-accent-400 text-brand-950 transition-transform duration-300 motion-safe:group-hover/logo:-rotate-6 motion-safe:group-hover/logo:scale-110" aria-hidden>
             iK
           </span>
           Internettikasino
@@ -27,7 +27,7 @@ export default function Header() {
                 <Link
                   href={item.href}
                   className={clsx(
-                    'whitespace-nowrap rounded-md px-3 py-2 transition hover:bg-white/10',
+                    'relative whitespace-nowrap rounded-md px-3 py-2 transition hover:bg-white/10 after:absolute after:inset-x-3 after:bottom-1 after:h-0.5 after:origin-left after:scale-x-0 after:rounded-full after:bg-accent-400 after:transition-transform after:duration-300 hover:after:scale-x-100',
                     pathname === item.href && 'bg-white/10 text-accent-300',
                   )}
                 >

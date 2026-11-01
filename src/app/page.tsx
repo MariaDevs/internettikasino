@@ -52,7 +52,7 @@ export default function HomePage() {
           </p>
           <div className="mt-8 grid gap-4 md:grid-cols-3">
             {hero.map((c, i) => (
-              <div key={c.slug} className="flex flex-col rounded-2xl bg-white p-5 text-slate-900 shadow-lg">
+              <div key={c.slug} className="flex flex-col rounded-2xl bg-white p-5 text-slate-900 shadow-lg ring-1 ring-transparent transition duration-300 hover:shadow-2xl hover:ring-accent-400 motion-safe:hover:-translate-y-1">
                 <div className="flex items-center justify-between">
                   <span className="rounded-full bg-accent-400 px-2.5 py-0.5 text-xs font-bold text-brand-950">#{i + 1}</span>
                   <StarRating value={c.rating} size={14} />
@@ -65,7 +65,7 @@ export default function HomePage() {
                 <p className="flex-1 font-semibold text-brand-800">{c.bonus}</p>
                 <div className="mt-4 flex gap-2">
                   <PlayButton go={c.go} className="flex-1" />
-                  <Link href={`/review/${c.slug}/`} className="rounded-lg border border-slate-300 px-3 py-2.5 text-sm font-medium hover:border-brand-600">
+                  <Link href={`/review/${c.slug}/`} className="rounded-lg border border-slate-300 px-3 py-2.5 text-sm font-medium transition-colors duration-200 hover:border-brand-600 hover:bg-brand-50 hover:text-brand-700">
                     Arvostelu
                   </Link>
                 </div>
@@ -79,8 +79,8 @@ export default function HomePage() {
       <section className="border-b border-slate-200 bg-white">
         <ul className="mx-auto grid max-w-7xl gap-6 px-4 py-8 sm:grid-cols-2 lg:grid-cols-4">
           {USPS.map(({ icon: Icon, title, text }) => (
-            <li key={title} className="flex gap-3">
-              <Icon className="mt-0.5 shrink-0 text-brand-600" size={22} aria-hidden />
+            <li key={title} className="group/usp flex gap-3">
+              <Icon className="mt-0.5 shrink-0 text-brand-600 transition-transform duration-300 motion-safe:group-hover/usp:scale-110 motion-safe:group-hover/usp:-rotate-6" size={22} aria-hidden />
               <div>
                 <p className="font-bold text-slate-900">{title}</p>
                 <p className="text-sm text-slate-600">{text}</p>
