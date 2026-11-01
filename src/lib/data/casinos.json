@@ -3,7 +3,7 @@
     "slug": "casinofriday",
     "name": "CasinoFriday",
     "logo": "/images/uploads/2017/10/casinofriday-logo.png",
-    "bonus": "100 kierrätysvapaata ilmaiskierrosta 20 €:n talletuksella",
+    "bonus": "100 kierrätysvapaata ilmaiskierrosta 20 euron talletuksella",
     "freeSpins": "Jopa 200 kierrätysvapaata ilmaiskierrosta",
     "license": "Estonian",
     "payments": [
@@ -22,7 +22,7 @@
     "slug": "shotz-kasino",
     "name": "Shotz Kasino",
     "logo": "/images/uploads/2026/04/shotz.png",
-    "bonus": "100 kierrätysvapaata ilmaiskierrosta 20 €:n talletuksella",
+    "bonus": "100 kierrätysvapaata ilmaiskierrosta 20 euron talletuksella",
     "freeSpins": "Jopa 200 kierrätysvapaata ilmaiskierrosta",
     "license": "Estonian",
     "payments": [
@@ -41,7 +41,7 @@
     "slug": "pelipeto",
     "name": "Pelipeto",
     "logo": "/images/uploads/2026/04/pelipito.png",
-    "bonus": "50 kierrätysvapaata ilmaiskierrosta (0,10–0,50 €/kierros)",
+    "bonus": "50 kierrätysvapaata ilmaiskierrosta, arvo 0,10–0,50 €/kierros",
     "freeSpins": "",
     "license": "Estonian",
     "payments": [
@@ -60,8 +60,8 @@
     "slug": "lumo-casino",
     "name": "Lumo Casino",
     "logo": "/images/uploads/2026/06/lumo-casino-logo.png",
-    "bonus": "100% Bonus Jopa 300 € +50 Käteiskierrosta",
-    "freeSpins": "50 Käteiskierrosta",
+    "bonus": "100 % bonus jopa 300 € + 50 käteiskierrosta",
+    "freeSpins": "50 kierrätysvapaata käteiskierrosta",
     "license": "MGA",
     "payments": [
       "Trustly"
@@ -79,8 +79,8 @@
     "slug": "igni-casino",
     "name": "Igni Casino",
     "logo": "/images/uploads/2026/06/igni-casino-logo.png",
-    "bonus": "100% Tervetulobonus 500€ asti + 100 ilmaiskierrosta",
-    "freeSpins": "",
+    "bonus": "100 % bonus jopa 500 € + 100 ilmaiskierrosta",
+    "freeSpins": "100 ilmaiskierrosta",
     "license": "MGA",
     "payments": [
       "Trustly"
@@ -117,7 +117,7 @@
     "slug": "munkki-kasino",
     "name": "Munkki Kasino",
     "logo": "/images/uploads/2026/06/munkki-kasino-logo-1.png",
-    "bonus": "100% bonuksen jopa €600 asti",
+    "bonus": "100 % bonus jopa 600 €",
     "freeSpins": "",
     "license": "MGA",
     "payments": [
@@ -136,7 +136,7 @@
     "slug": "vauhti-kasino",
     "name": "Vauhti Kasino",
     "logo": "/images/uploads/2026/06/vauthi-kasino-logo.png",
-    "bonus": "Jopa 1000 € käteispottimme",
+    "bonus": "Jopa 1 000 € käteispotti uusille pelaajille",
     "freeSpins": "",
     "license": "MGA",
     "payments": [],
@@ -153,7 +153,7 @@
     "slug": "247bet",
     "name": "247Bet",
     "logo": "/images/uploads/2026/06/247bet-logo-1.png",
-    "bonus": "100% bonuksen jopa €50 asti",
+    "bonus": "100 % bonus jopa 50 €",
     "freeSpins": "",
     "license": "MGA",
     "payments": [],
@@ -171,7 +171,7 @@
     "name": "Kaahaus Kasino",
     "logo": "/images/uploads/2026/04/kaahaus.png",
     "bonus": "200 kierrätysvapaata käteiskierrosta",
-    "freeSpins": "200 käteiskierrosta",
+    "freeSpins": "200 käteiskierrosta viiden päivän aikana",
     "license": "Curacao",
     "payments": [
       "Brite"
@@ -189,7 +189,7 @@
     "slug": "jackburst",
     "name": "Jackburst",
     "logo": "/images/uploads/2026/04/jackburst-logo-new.png",
-    "bonus": "100 % jopa 500 € + 150 ilmaiskierrosta",
+    "bonus": "100 % bonus jopa 500 € + 150 ilmaiskierrosta",
     "freeSpins": "2. talletus: 50 % jopa 200 € + 100 ilmaiskierrosta",
     "license": "Curacao",
     "payments": [
@@ -208,8 +208,8 @@
     "slug": "ursa-casino",
     "name": "Ursa Casino",
     "logo": "/images/uploads/2026/06/ursa-casino-logo.png",
-    "bonus": "100% Bonus Jopa 500 € +  200 Ilmaiskierrosta",
-    "freeSpins": "200 Ilmaiskierrosta",
+    "bonus": "100 % bonus jopa 500 € + 200 ilmaiskierrosta",
+    "freeSpins": "200 ilmaiskierrosta",
     "license": "Isle of Man",
     "payments": [
       "Trustly"
@@ -227,7 +227,7 @@
     "slug": "hurmio-casino-2",
     "name": "Hurmio Casino",
     "logo": "/images/uploads/2026/06/hurmio-casino-logo.png",
-    "bonus": "Jopa 15 % Palautuksen",
+    "bonus": "Jopa 15 % kierrätysvapaa cashback",
     "freeSpins": "",
     "license": "Curaçao",
     "payments": [
@@ -246,7 +246,7 @@
     "slug": "rullat-casino",
     "name": "Rullat Casino",
     "logo": "/images/uploads/2026/06/rullat-casino-logo-1.png",
-    "bonus": "Jopa 15 % Palautuksen",
+    "bonus": "Jopa 15 % kierrätysvapaa cashback",
     "freeSpins": "",
     "license": "Curacao",
     "payments": [
@@ -266,7 +266,7 @@
     "name": "Spinnaus Kasino",
     "logo": "/images/uploads/2017/10/spinnaus.png",
     "bonus": "300 kierrätysvapaata ilmaiskierrosta + 10 % päivittäinen cashback",
-    "freeSpins": "300 Ilmaiskierrosta",
+    "freeSpins": "300 kierrätysvapaata ilmaiskierrosta",
     "license": "Curacao",
     "payments": [
       "Brite"
@@ -284,7 +284,7 @@
     "slug": "jellona-kasino",
     "name": "Jellona Kasino",
     "logo": "/images/uploads/2026/06/jellona-kasino-logo.png",
-    "bonus": "Jopa 15 % Palautuksen",
+    "bonus": "Jopa 15 % cashback",
     "freeSpins": "",
     "license": "Curacao",
     "payments": [],
@@ -301,8 +301,8 @@
     "slug": "spiidi-kasino",
     "name": "Spiidi Kasino",
     "logo": "/images/uploads/2026/06/spiidi-kasino-logo-1.png",
-    "bonus": "100 Käteiskierrosta heti + 10% Cashback.",
-    "freeSpins": "",
+    "bonus": "100 käteiskierrosta + 10 % päivittäinen cashback",
+    "freeSpins": "100 kierrätysvapaata käteiskierrosta",
     "license": "Curacao",
     "payments": [
       "Trustly",
@@ -321,7 +321,7 @@
     "slug": "tikkari-kasino",
     "name": "Tikkari Kasino",
     "logo": "/images/uploads/2026/06/tikkari-kasino-logo.png",
-    "bonus": "Jopa 15 % Palautuksen + Jopa 1000 Spinniä",
+    "bonus": "Jopa 15 % cashback + jopa 1 000 ilmaiskierrosta",
     "freeSpins": "",
     "license": "Curaçao",
     "payments": [],
@@ -355,7 +355,7 @@
     "slug": "taika-spinni",
     "name": "Taika Spinni",
     "logo": "/images/uploads/2026/06/taika-spinni-logo.png",
-    "bonus": "100 % jopa 500 € + 200 ilmaiskierrosta",
+    "bonus": "100 % bonus jopa 500 € + 200 ilmaiskierrosta",
     "freeSpins": "200 ilmaiskierrosta",
     "license": "Curacao",
     "payments": [],
@@ -372,7 +372,7 @@
     "slug": "titaani-casino",
     "name": "Titaani Casino",
     "logo": "/images/uploads/2026/08/titaani-casino-logo.png",
-    "bonus": "200 ilmaiskierrosta + 20 ilman talletusta",
+    "bonus": "200 ilmaiskierrosta + 20 kierrosta ilman talletusta",
     "freeSpins": "20 ilmaiskierrosta ilman talletusta",
     "license": "Curacao",
     "payments": [
@@ -392,7 +392,7 @@
     "slug": "pelifantti-kasino",
     "name": "Pelifantti Kasino",
     "logo": "/images/uploads/2026/08/pelifantti-kasino-logo.png",
-    "bonus": "Jopa 15 % Palautuksen",
+    "bonus": "Jopa 15 % viikoittainen cashback",
     "freeSpins": "",
     "license": "Anjouanin",
     "payments": [
