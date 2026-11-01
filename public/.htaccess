@@ -27,6 +27,7 @@ RewriteRule ^wp-login\.php/?$ / [L,R=301]
 RewriteRule ^wp-json(/.*)?/?$ / [L,R=301]
 RewriteRule ^review/vauthi-kasino/?$ /review/vauhti-kasino/ [L,R=301]
 RewriteRule ^review/tikaani-casino/?$ /review/titaani-casino/ [L,R=301]
+RewriteRule ^author/marius/?$ /author/traffic-puma/ [L,R=301]
 
 # Affiliate links (/go/<slug>/) — 302 so the target can change without being cached as permanent
 RewriteRule ^go/casino-friday/?$ https://go.funnz.partners/visit/?bta=38445&nci=5599&utm_campaign=FICF [L,R=302,NE]

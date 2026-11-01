@@ -16,7 +16,7 @@ export function ldJson(schema: unknown): string {
 
 const ORG_ID = `${SITE_URL}/#organization`;
 const SITE_ID = `${SITE_URL}/#website`;
-const PERSON_ID = `${AUTHOR.url}#person`;
+const AUTHOR_ID = `${AUTHOR.url}#team`;
 
 export function organizationSchema() {
   return {
@@ -42,15 +42,16 @@ export function websiteSchema() {
   };
 }
 
-export function personSchema() {
+/** The editorial team credited as author of all content. */
+export function authorSchema() {
   return {
     '@context': 'https://schema.org',
-    '@type': 'Person',
-    '@id': PERSON_ID,
-    name: AUTHOR.name,
+    '@type': 'Organization',
+    '@id': AUTHOR_ID,
+    name: AUTHOR.org,
+    alternateName: AUTHOR.name,
     url: AUTHOR.url,
-    jobTitle: AUTHOR.role,
-    worksFor: { '@id': ORG_ID },
+    logo: abs('/images/logo-icon-512.png'),
   };
 }
 
@@ -91,7 +92,7 @@ export function webPageSchema(p: { path: string; title: string; description: str
     isPartOf: { '@id': SITE_ID },
     ...(p.published && { datePublished: p.published }),
     ...(p.modified && { dateModified: p.modified }),
-    author: { '@id': PERSON_ID },
+    author: { '@id': AUTHOR_ID },
     publisher: { '@id': ORG_ID },
   };
 }
@@ -120,7 +121,7 @@ export function articleSchema(post: Post) {
     mainEntityOfPage: abs(path),
     image: post.image ? abs(post.image) : abs('/images/logo-icon-512.png'),
     inLanguage: SITE_LANG,
-    author: { '@type': 'Person', '@id': PERSON_ID, name: AUTHOR.name, url: AUTHOR.url },
+    author: { '@type': 'Organization', '@id': AUTHOR_ID, name: AUTHOR.org, url: AUTHOR.url },
     publisher: { '@id': ORG_ID },
   };
 }
@@ -136,7 +137,7 @@ export function casinoReviewSchema(casino: Casino) {
     inLanguage: SITE_LANG,
     ...(casino.published && { datePublished: casino.published }),
     ...(casino.modified && { dateModified: casino.modified }),
-    author: { '@type': 'Person', '@id': PERSON_ID, name: AUTHOR.name, url: AUTHOR.url },
+    author: { '@type': 'Organization', '@id': AUTHOR_ID, name: AUTHOR.org, url: AUTHOR.url },
     publisher: { '@id': ORG_ID },
     itemReviewed: {
       '@type': 'Organization',

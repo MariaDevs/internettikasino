@@ -5,11 +5,15 @@ export const SITE_NAME = 'Internettikasino';
 export const SITE_LOCALE = 'fi_FI';
 export const SITE_LANG = 'fi-FI';
 
+// Content is credited to the team, not an individual.
 export const AUTHOR = {
-  name: 'Marius Mukuna',
-  slug: 'marius',
-  url: `${SITE_URL}/author/marius/`,
-  role: 'Päätoimittaja',
+  name: 'Traffic Puma -tiimi',
+  org: 'Traffic Puma',
+  slug: 'traffic-puma',
+  path: '/author/traffic-puma/',
+  url: `${SITE_URL}/author/traffic-puma/`,
+  role: 'Toimitus',
+  initials: 'TP',
 };
 
 export const abs = (path: string) => `${SITE_URL}${path}`;

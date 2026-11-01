@@ -2,7 +2,7 @@ Internettikasino.com on suomenkielinen nettikasinovertailu. Tällä sivulla kerr
 
 ## Kuka sivustoa tekee?
 
-Sivuston sisällöstä vastaa päätoimittaja [Marius Mukuna](/author/marius/). Hän kirjoittaa ja päivittää kasinoarvostelut, vertailusivut ja oppaat. Jokaisessa artikkelissa näkyy kirjoittaja sekä päivämäärä, jolloin sisältö on viimeksi tarkistettu.
+Sivuston sisällöstä vastaa [Traffic Puma -tiimi](/author/traffic-puma/). Tiimi kirjoittaa ja päivittää kasinoarvostelut, vertailusivut ja oppaat. Jokaisessa artikkelissa näkyy kirjoittaja sekä päivämäärä, jolloin sisältö on viimeksi tarkistettu.
 
 ## Miten arvioimme kasinot
 

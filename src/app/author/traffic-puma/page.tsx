@@ -4,28 +4,28 @@ import JsonLd from '@/components/JsonLd';
 import PostCard from '@/components/PostCard';
 import { casinos, posts } from '@/lib/data';
 import { buildMetadata } from '@/lib/meta';
-import { breadcrumbSchema, personSchema } from '@/lib/schema';
+import { authorSchema, breadcrumbSchema } from '@/lib/schema';
 import { AUTHOR } from '@/lib/site';
 
 export const metadata = buildMetadata({
-  path: '/author/marius/',
-  title: `${AUTHOR.name} — ${AUTHOR.role}, Internettikasino`,
-  description: `${AUTHOR.name} kirjoittaa ja testaa Internettikasinon kasinoarvostelut ja oppaat. Kaikki hänen artikkelinsa ja arvostelunsa yhdellä sivulla.`,
+  path: AUTHOR.path,
+  title: `${AUTHOR.name} — Internettikasinon toimitus`,
+  description: `${AUTHOR.name} kirjoittaa ja testaa Internettikasinon kasinoarvostelut ja oppaat. Kaikki artikkelit ja kasinoarvostelut yhdellä sivulla.`,
 });
 
 export default function AuthorPage() {
   const crumbs = [
     { name: 'Etusivu', path: '/' },
-    { name: AUTHOR.name, path: '/author/marius/' },
+    { name: AUTHOR.name, path: AUTHOR.path },
   ];
   return (
     <>
-      <JsonLd data={[{ ...personSchema(), mainEntityOfPage: 'ProfilePage' }, breadcrumbSchema(crumbs)]} />
+      <JsonLd data={[authorSchema(), breadcrumbSchema(crumbs)]} />
       <div className="mx-auto max-w-7xl px-4 py-10">
         <Breadcrumb items={crumbs} />
         <div className="mt-6 flex flex-col gap-6 sm:flex-row sm:items-center">
           <span className="flex h-24 w-24 shrink-0 items-center justify-center rounded-full bg-brand-800 text-3xl font-extrabold text-white" aria-hidden>
-            MM
+            {AUTHOR.initials}
           </span>
           <div>
             <h1 className="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">{AUTHOR.name}</h1>
@@ -34,7 +34,7 @@ export default function AuthorPage() {
         </div>
         <div className="prose-ik mt-6 max-w-3xl">
           <p>
-            Marius vastaa Internettikasinon kasinoarvosteluista ja oppaista. Jokainen arvostelu perustuu samaan testiin:
+            Traffic Puma -tiimi vastaa Internettikasinon kasinoarvosteluista ja oppaista. Jokainen arvostelu perustuu samaan testiin:
             tunnistautuminen tai rekisteröinti, talletus, bonusehtojen läpikäynti, pelaaminen ja kotiutus — jotta voimme kertoa
             kotiutusajat ja ehdot sellaisina kuin ne käytännössä ovat.
           </p>

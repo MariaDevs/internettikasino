@@ -66,5 +66,9 @@
   {
     "source": "/review/tikaani-casino",
     "destination": "/review/titaani-casino/"
+  },
+  {
+    "source": "/author/marius",
+    "destination": "/author/traffic-puma/"
   }
 ]

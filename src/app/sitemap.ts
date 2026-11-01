@@ -42,7 +42,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'weekly' as const,
       priority: 0.5,
     })),
-    { url: `${SITE_URL}/author/marius/`, changeFrequency: 'monthly', priority: 0.4 },
+    { url: `${SITE_URL}/author/traffic-puma/`, changeFrequency: 'monthly', priority: 0.4 },
     { url: `${SITE_URL}/vastuullinen-pelaaminen/`, changeFrequency: 'yearly', priority: 0.3 },
   ];
 }
