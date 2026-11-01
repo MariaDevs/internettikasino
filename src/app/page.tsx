@@ -54,8 +54,9 @@ export default function HomePage() {
                   <span className="rounded-full bg-accent-400 px-2.5 py-0.5 text-xs font-bold text-brand-950">#{i + 1}</span>
                   <StarRating value={c.rating} size={14} />
                 </div>
-                <Link href={`/review/${c.slug}/`} className="mt-3 flex h-32 items-center justify-center rounded-xl border border-slate-200 bg-white p-3">
-                  <Image src={c.logo} alt={`${c.name} logo`} width={280} height={112} priority className="h-full w-full object-contain" />
+                <Link href={`/review/${c.slug}/`} className="mt-3 flex h-20 items-center justify-center rounded-xl border border-slate-200 bg-white p-2">
+                  {/* Native size, never upscaled: the source logos are small and blur when stretched. */}
+                  <Image src={c.logo} alt={`${c.name} logo`} width={280} height={112} priority unoptimized className="h-auto max-h-full w-auto max-w-full" />
                 </Link>
                 <p className="mt-3 text-lg font-bold">{c.name}</p>
                 <p className="flex-1 font-semibold text-brand-800">{c.bonus}</p>
