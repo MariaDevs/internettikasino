@@ -34,7 +34,7 @@ export default function AuthorPage() {
         </div>
         <div className="prose-ik mt-6 max-w-3xl">
           <p>
-            Traffic Puma -tiimi vastaa Internettikasinon kasinoarvosteluista ja oppaista. Jokainen arvostelu perustuu samaan testiin:
+            Internetti Kasino -tiimi vastaa Internettikasinon kasinoarvosteluista ja oppaista. Jokainen arvostelu perustuu samaan testiin:
             tunnistautuminen tai rekisteröinti, talletus, bonusehtojen läpikäynti, pelaaminen ja kotiutus — jotta voimme kertoa
             kotiutusajat ja ehdot sellaisina kuin ne käytännössä ovat.
           </p>

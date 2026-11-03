@@ -27,7 +27,7 @@ export default function Footer() {
           </p>
           <ul className="mt-4 space-y-1.5 text-sm">
             <li><Link href="/internettikasino-arvostelu/" className="hover:text-white">Tietoa meistä ja arviointiperiaatteet</Link></li>
-            <li><Link href="/author/traffic-puma/" className="hover:text-white">Toimitus: Traffic Puma -tiimi</Link></li>
+            <li><Link href="/author/internettikasino/" className="hover:text-white">Toimitus: Internetti Kasino -tiimi</Link></li>
             <li><Link href="/vastuullinen-pelaaminen/" className="hover:text-white">Vastuullinen pelaaminen</Link></li>
           </ul>
         </div>

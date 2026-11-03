@@ -26,7 +26,7 @@ export function buildMetadata(p: {
       ...(p.type === 'article' && {
         publishedTime: p.published ?? undefined,
         modifiedTime: p.modified ?? undefined,
-        authors: [abs('/author/traffic-puma/')],
+        authors: [abs('/author/internettikasino/')],
       }),
     },
     twitter: { card: 'summary_large_image', title: p.title, description: p.description, images: [image] },

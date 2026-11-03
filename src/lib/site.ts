@@ -7,13 +7,13 @@ export const SITE_LANG = 'fi-FI';
 
 // Content is credited to the team, not an individual.
 export const AUTHOR = {
-  name: 'Traffic Puma -tiimi',
-  org: 'Traffic Puma',
-  slug: 'traffic-puma',
-  path: '/author/traffic-puma/',
-  url: `${SITE_URL}/author/traffic-puma/`,
+  name: 'Internetti Kasino -tiimi',
+  org: 'Internetti Kasino',
+  slug: 'internettikasino',
+  path: '/author/internettikasino/',
+  url: `${SITE_URL}/author/internettikasino/`,
   role: 'Toimitus',
-  initials: 'TP',
+  initials: 'IK',
 };
 
 export const abs = (path: string) => `${SITE_URL}${path}`;

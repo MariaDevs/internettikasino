@@ -69,6 +69,10 @@
   },
   {
     "source": "/author/marius",
-    "destination": "/author/traffic-puma/"
+    "destination": "/author/internettikasino/"
+  },
+  {
+    "source": "/author/traffic-puma",
+    "destination": "/author/internettikasino/"
   }
 ]
