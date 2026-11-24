@@ -149,7 +149,7 @@ Erikoispelien alle voi kuulua esimerkiksi crash-pelejä, kenoa, raaputusarpoja, 
 
 Paras nettikasino riippuu siitä, mitä painotat. Tässä listamme vahvimmat valinnat eri tilanteisiin:
 
-<table><tbody><tr><td><strong>Prioriteetti</strong></td><td><strong>Paras valinta</strong></td></tr><tr><td>Verovapaat voitot</td><td>CasinoFriday, Pelipeto, Shotz (Viron EMTA), Lumo, Igni (MGA)</td></tr><tr><td>Suurin bonus</td><td>Munkki (600€) tai Ursa (500€ + 200 FS)</td></tr><tr><td>Nopein kotiutus</td><td>Rullat tai Hurmio (Brite, alle 15 min)</td></tr><tr><td>Kierrätysvapaa etu</td><td>Rullat, Hurmio tai Spiidi</td></tr><tr><td>Pienin minimitalletus</td><td>Pelifantti (1€)</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Prioriteetti</strong></td><td><strong>Paras valinta</strong></td></tr><tr><td>Verovapaat voitot</td><td>CasinoFriday, Pelipeto, Shotz (Viron EMTA), Munkki (MGA)</td></tr><tr><td>Suurin bonus</td><td>Munkki (600€) tai Ursa (500€ + 200 FS)</td></tr><tr><td>Nopein kotiutus</td><td>Rullat tai Hurmio (Brite, alle 15 min)</td></tr><tr><td>Kierrätysvapaa etu</td><td>Rullat, Hurmio tai Spiidi</td></tr><tr><td>Pienin minimitalletus</td><td>Pelifantti (1€)</td></tr></tbody></table>
 
 ## Top kasinot ilman rekisteröitymistä
 

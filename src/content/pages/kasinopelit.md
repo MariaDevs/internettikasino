@@ -367,14 +367,8 @@ Paras kasino kasinopeleille yhdistää laajan pelivalikoiman, luotettavan lisens
 
 ### Parhaat kasinot kasinopeleille
 
-**Lumo Casino** — MGA-lisenssi, yli 2 000 peliä johtavilta studioilta, 100% + 50 käteiskierrosta  
-[**Pelaa Lumo Casinolla →**](/go/lumo/) | [Lue arvostelu](/review/lumo-casino/)
-
 **Munkki Kasino** — MGA-lisenssi, 100% jopa 600 €, laaja Pragmatic + Hacksaw -valikoima  
 [**Pelaa Munkki Kasinolla →**](/go/munkki/) | [Lue arvostelu](/review/munkki-kasino/)
-
-**Igni Casino** — MGA-lisenssi, 100% + 100 ilmaiskierrosta, kattava studio-lineup  
-[**Pelaa Igni Casinolla →**](/go/igni/) | [Lue arvostelu](/review/igni-casino/)
 
 **Pelifantti Kasino** — yli 3 000 peliä, uusimmat Hacksaw + Play’n GO -julkaisut, 15% cashback  
 [**Pelaa Pelifantti Kasinolla →**](/go/pelifantti/) | [Lue arvostelu](/review/pelifantti-kasino/)

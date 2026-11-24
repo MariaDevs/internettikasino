@@ -26,7 +26,7 @@ Pay N Play -kasinolla sama tunnistautuminen luo myös pelitilisi, joten tämä o
 
 Kotiutus tehdään samalle pankkitilille, jolta talletit. Valitset summan, ja kasino lähettää rahat Trustlyn kautta. Trustly itse siirtää rahat nopeasti; ratkaisevaa on, miten nopeasti kasino käsittelee pyynnön.
 
--   **Automaattinen käsittely:** raha on tilillä tyypillisesti 5–30 minuutissa. Testaamillamme Trustly-kasinoilla Lumo, Igni ja Munkki ilmoittavat käsittelyajaksi 5–30 minuuttia ja OneRush noin 10 minuuttia.
+-   **Automaattinen käsittely:** raha on tilillä tyypillisesti 5–30 minuutissa. Testaamamme Munkki Kasino ilmoittaa käsittelyajaksi 5–30 minuuttia ja OneRush noin 10 minuuttia.
 -   **Manuaalinen tarkistus:** suurten summien tai ensimmäisen kotiutuksen kohdalla kasino voi tarkistaa pyynnön käsin, jolloin kotiutus voi viedä tunteja.
 
 Lue, miksi kotiutus joskus viivästyy ja miten sen voi välttää: [KYC-prosessi nettikasinolla](/kyc-prosessi-nettikasino/).
@@ -45,7 +45,7 @@ Trustlyn turvallisuus ei kuitenkaan kerro kasinon luotettavuudesta. Tarkista ain
 
 Maksutapa ei vaikuta verotukseen. Ratkaisevaa on kasinon lisenssi:
 
--   **Verovapaat:** MGA-lisenssillä (Lumo, Igni, Munkki) ja Viron EMTA-lisenssillä (OneRush) toimivien Trustly-kasinoiden voitot.
+-   **Verovapaat:** MGA-lisenssillä (Munkki) ja Viron EMTA-lisenssillä (OneRush) toimivien Trustly-kasinoiden voitot.
 -   **Verotettavat:** Isle of Man -lisenssillä (Ursa) ja Curaçao-lisenssillä (esimerkiksi Spiidi ja Titaani) toimivien kasinoiden voitot.
 
 Lue lisää: [verovapaat kasinot](/verovapaat-kasinot/) ja [MGA-kasinot](/mga-kasinot/).
@@ -100,7 +100,7 @@ Riippuu kasinon lisenssistä, ei maksutavasta. MGA- tai Viron EMTA -lisenssillä
 
 ### Mitkä ovat parhaat Trustly-kasinot 2026?
 
-Ajantasainen järjestys näkyy tämän sivun yläosan listassa. Pisteytyksessämme parhaiten pärjäsivät MGA-lisensoidut Lumo Casino ja Igni Casino sekä virolainen OneRush.
+Ajantasainen järjestys näkyy tämän sivun yläosan listassa. Pisteytyksessämme parhaiten pärjäsivät virolainen OneRush ja MGA-lisensoitu Munkki Kasino.
 
 * * *
 

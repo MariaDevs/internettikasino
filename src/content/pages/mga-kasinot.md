@@ -44,7 +44,7 @@ Jos lisenssiä ei löydy, se on peruttu tai verkkotunnus puuttuu listalta, älä
 
 ## Mitä MGA-kasinolta voi odottaa?
 
-**Turvalliset maksut.** MGA-kasinoilla suomalaiset maksavat yleensä pankkipohjaisilla pikamaksuilla. Listamme MGA-kasinoista Lumo, Igni ja Munkki käyttävät Trustlyä, joten tunnistautuminen, talletus ja kotiutus hoituvat pankkitunnuksilla. Lue lisää [Trustly-kasinoista](/trustly-kasinot/).
+**Turvalliset maksut.** MGA-kasinoilla suomalaiset maksavat yleensä pankkipohjaisilla pikamaksuilla. Listamme MGA-kasinoista Munkki käyttää Trustlyä, joten tunnistautuminen, talletus ja kotiutus hoituvat pankkitunnuksilla. Lue lisää [Trustly-kasinoista](/trustly-kasinot/).
 
 **Selkeät bonusehdot.** MGA edellyttää, että bonusehdot ovat pelaajan luettavissa ennen bonuksen hyväksymistä. Tämä ei tee jokaisesta bonuksesta hyvää, mutta ehdot eivät saa olla piilossa. Vertaa tarjouksia [kasinobonukset-sivulla](/nettikasinobonukset/).
 
@@ -100,7 +100,7 @@ Etsi lisenssinumero kasinon sivun alalaidasta ja hae se MGA:n rekisteristä osoi
 
 ### Mitkä ovat parhaat MGA-kasinot 2026?
 
-Ajantasainen järjestys näkyy tämän sivun yläosan listassa. Pisteytyksessämme MGA-kasinoista parhaiten pärjäsi Lumo Casino, jolla on 50 kierrätysvapaata käteiskierrosta ja Trustly-kotiutukset.
+Ajantasainen järjestys näkyy tämän sivun yläosan listassa. Pisteytyksessämme MGA-kasinoista parhaiten pärjäsi Munkki Kasino, jolla on 100 % bonus jopa 600 € asti ja Trustly-kotiutukset.
 
 * * *
 

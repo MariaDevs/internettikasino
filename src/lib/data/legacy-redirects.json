@@ -61,7 +61,7 @@
   },
   {
     "source": "/review/vauthi-kasino",
-    "destination": "/review/vauhti-kasino/"
+    "destination": "/review/"
   },
   {
     "source": "/review/tikaani-casino",
@@ -74,5 +74,37 @@
   {
     "source": "/author/traffic-puma",
     "destination": "/author/internettikasino/"
+  },
+  {
+    "source": "/review/lumo-casino",
+    "destination": "/review/"
+  },
+  {
+    "source": "/go/lumo",
+    "destination": "/"
+  },
+  {
+    "source": "/review/igni-casino",
+    "destination": "/review/"
+  },
+  {
+    "source": "/go/igni",
+    "destination": "/"
+  },
+  {
+    "source": "/review/vauhti-kasino",
+    "destination": "/review/"
+  },
+  {
+    "source": "/go/vauthi",
+    "destination": "/"
+  },
+  {
+    "source": "/review/247bet",
+    "destination": "/review/"
+  },
+  {
+    "source": "/go/247bet",
+    "destination": "/"
   }
 ]

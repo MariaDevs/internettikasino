@@ -45,17 +45,12 @@ Markkinoiden ainoa yhdistelmä: 20 kierrätysvapaata kierrosta ilman talletusta 
 200 kierrätysvapaata käteiskierrosta + 10 % päivittäinen cashback ilman kierrätysvaatimusta. Kaikki bonukset yhdessä paketissa — paras kokonaisarvo säännölliselle pelaajalle.  
 [**Lunasta bonus Spiidi Kasinolla →**](/go/spiidi/) | [Lue arvostelu](/review/spiidi-kasino/)
 
-### 3\. Lumo Casino — 100 % bonus 300 € + 50 käteiskierrosta
-
-100 % talletusbonus jopa 300 € asti sekä 50 kierrätysvapaata käteiskierrosta. Hyvä kokonaispaketti sekä bonusrahan että kierrosten osalta.  
-[**Lunasta bonus Lumo Casinolla →**](/go/lumo/) | [Lue arvostelu](/review/lumo-casino/)
-
-### 4\. Kaahaus Kasino — 200 käteiskierrosta + jatkuva cashback
+### 3\. Kaahaus Kasino — 200 käteiskierrosta + jatkuva cashback
 
 200 käteiskierrosta ensirekisteröinnissä ja 10 % päivittäinen cashback säännöllisille pelaajille. Pitkän tähtäimen paras arvo cashback-pelaajalle.  
 [**Lunasta bonus Kaahaus Kasinolla →**](/go/kaahaus/) | [Lue arvostelu](/review/kaahaus/)
 
-### 5\. CasinoFriday — 100 kierrätysvapaata ilmaiskierrosta
+### 4\. CasinoFriday — 100 kierrätysvapaata ilmaiskierrosta
 
 100 kierrätysvapaata ilmaiskierrosta rekisteröitymisen yhteydessä. Viron EMTA-lisenssi takaa verovapaat voitot.  
 [**Lunasta bonus CasinoFridaylla →**](/go/casino-friday/) | [Lue arvostelu](/review/casinofriday/)

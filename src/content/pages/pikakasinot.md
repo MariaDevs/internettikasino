@@ -48,7 +48,6 @@ EU- tai ETA-alueella lisensoidun kasinon voitot ovat suomalaiselle verovapaita. 
 Paras pikakasino riippuu siitä, mitä arvostat. Tässä vahvimmat valinnat eri tilanteisiin:
 
 -   **Verovapaat voitot ja nopea kotiutus:** [CasinoFriday](/review/casinofriday/), [Pelipeto](/review/pelipeto/) ja [Shotz Kasino](/review/shotz-kasino/) toimivat Viron EMTA-lisenssillä Zimpler-maksuilla.
--   **Kierrätysvapaat käteiskierrokset:** [Lumo Casino](/review/lumo-casino/) (MGA) antaa 50 käteiskierrosta tervetuliaisbonuksen yhteydessä.
 -   **Suurin bonuspaketti:** [Ursa Casino](/review/ursa-casino/) – 100 % bonus jopa 500 € ja 200 ilmaiskierrosta. Isle of Man -lisenssi on tiukasti valvottu, mutta voitot ovat Suomessa verotettavia.
 -   **Ei bonusehtoja lainkaan:** [OneRush](/review/onerush/) (Viron EMTA) ei tarjoa tervetuliaisbonusta, vaan keskittyy nopeisiin, noin 10 minuutin kotiutuksiin.
 -   **Cashback tappioista:** [Kaahaus](/review/kaahaus/), [Rullat](/review/rullat-casino/) ja [Hurmio](/review/hurmio-casino-2/) palauttavat osan tappioista – huomaa, että ne toimivat Curaçao-lisenssillä, joten voitot ovat verotettavia.

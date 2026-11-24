@@ -53,7 +53,6 @@ Pisteytyksessämme parhaiten pärjäävät kasinot, joilla on ETA-lisenssi, nope
 
 -   **[CasinoFriday](/review/casinofriday/)** – Viron EMTA-lisenssi, Zimpler-kotiutukset ja kierrätysvapaat ilmaiskierrokset.
 -   **[Pelipeto](/review/pelipeto/)** ja **[Shotz Kasino](/review/shotz-kasino/)** – Viron EMTA-lisenssi, kotiutukset tyypillisesti 5–15 minuutissa, ilmaiskierrosten voitot kierrätysvapaita.
--   **[Lumo Casino](/review/lumo-casino/)** – MGA-lisenssi, Trustly-maksut ja 50 kierrätysvapaata käteiskierrosta.
 -   **[OneRush](/review/onerush/)** – Viron EMTA-lisenssi (C110579), ei bonusehtoja, kotiutus noin 10 minuutissa ja testissä nopea live-chat.
 
 Kaikki arviot ja ajantasainen järjestys: [parhaat nettikasinot](/parhaat-kasinot/) ja [kaikki kasinoarvostelut](/review/).

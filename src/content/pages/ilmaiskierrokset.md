@@ -54,7 +54,7 @@ Kierrätysvapaat ilmaiskierrokset eivät siis ole aina määrältään suurimpia
 
 ### Mistä löytää kierrätysvapaat ilmaiskierrokset?
 
-Arvosteluissamme kierrätysvapaita kierroksia tarjoavat muun muassa [Lumo Casino](/review/lumo-casino/) (50 käteiskierrosta tervetuliaisbonuksen yhteydessä) ja [Spiidi Kasino](/review/spiidi-kasino/) (100 käteiskierrosta ja 10 % cashback). Myös kierrätysvapaa cashback on samaa sukua: osa tappioista palautetaan suoraan käteisenä. Vertaa kaikki bonusmallit [kasinobonukset-sivulla](/nettikasinobonukset/).
+Arvosteluissamme kierrätysvapaita kierroksia tarjoavat muun muassa [Spiidi Kasino](/review/spiidi-kasino/) (100 käteiskierrosta ja 10 % cashback). Myös kierrätysvapaa cashback on samaa sukua: osa tappioista palautetaan suoraan käteisenä. Vertaa kaikki bonusmallit [kasinobonukset-sivulla](/nettikasinobonukset/).
 
 Tarkista aina kolme asiaa ennen kuin lunastat:
 

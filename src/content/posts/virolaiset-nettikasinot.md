@@ -54,7 +54,7 @@ Useimmat virolaiset pikakasinot käyttävät Zimpler-maksuja – katso kaikki te
 
 Molemmat ovat erinomaisia ja tuottavat suomalaisille verovapaita voittoja. Käytännön erot:
 
-<table><tbody><tr><td><strong>Ominaisuus</strong></td><td><strong>EMTA (Viro)</strong></td><td><strong>MGA (Malta)</strong></td></tr><tr><td>Verovapaat voitot suomalaisille</td><td>✅ Kyllä</td><td>✅ Kyllä</td></tr><tr><td>EU-sääntely</td><td>✅ Kyllä</td><td>✅ Kyllä</td></tr><tr><td>Tyypillinen maksutapa</td><td>Zimpler</td><td>Trustly</td></tr><tr><td>Bonustyyppi</td><td>Usein kierrätysvapaa</td><td>Usein matchausbonus</td></tr><tr><td>Tunnettuja kasinoita</td><td>CasinoFriday, Jackburst, Shotz</td><td>Lumo, Munkki, Igni</td></tr></tbody></table>
+<table><tbody><tr><td><strong>Ominaisuus</strong></td><td><strong>EMTA (Viro)</strong></td><td><strong>MGA (Malta)</strong></td></tr><tr><td>Verovapaat voitot suomalaisille</td><td>✅ Kyllä</td><td>✅ Kyllä</td></tr><tr><td>EU-sääntely</td><td>✅ Kyllä</td><td>✅ Kyllä</td></tr><tr><td>Tyypillinen maksutapa</td><td>Zimpler</td><td>Trustly</td></tr><tr><td>Bonustyyppi</td><td>Usein kierrätysvapaa</td><td>Usein matchausbonus</td></tr><tr><td>Tunnettuja kasinoita</td><td>CasinoFriday, Jackburst, Shotz</td><td>Munkki</td></tr></tbody></table>
 
 Valinta riippuu siitä, arvostatko enemmän kierrätysvapaita bonuksia (EMTA-kasinot) vai isoja matchausbonuksia (MGA-kasinot).
 
